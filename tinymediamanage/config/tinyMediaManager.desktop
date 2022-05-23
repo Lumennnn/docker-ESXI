@@ -1,7 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=tinyMediaManager
-Path=/config
-Exec=/usr/bin/env bash "/config/tinyMediaManager.sh"
-Icon=/config/tmm.png
-Categories=AudioVideo;Video;Database;Java;

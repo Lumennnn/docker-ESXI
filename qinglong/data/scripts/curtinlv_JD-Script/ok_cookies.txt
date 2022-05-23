@@ -1,2 +1,0 @@
-1, jd_72476e50d1b0e, pt_key=AAJiQsh6ADABgKiDo9adOWP73KwJ797sf3-hJczZk_BuT_9iIhTroHx5nFwjuDpKTzXs0LofDHA;pt_pin=jd_72476e50d1b0e;
-2, jd_56ac883b2ee02, pt_key=AAJiQspbADCX-Qr9Jgm-DAqJgE2LVkJGfvcjPsmq2VV9N8_jdMUymrucSQGIdsmFL5pIzED8Gck;pt_pin=jd_56ac883b2ee02;
