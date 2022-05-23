@@ -1,0 +1,12 @@
+## 开始执行... 2022-05-01 16:06:00
+
+
+【中青看点】2022-05-01 16:06:00
+Traceback (most recent call last):
+  File "/ql/data/scripts/whyour_hundun/youth.py", line 785, in <module>
+    run()
+  File "/ql/data/scripts/whyour_hundun/youth.py", line 680, in run
+    rotaryBody = f'{headers["Referer"].split("&")[15]}&{headers["Referer"].split("&")[8]}'
+KeyError: 'Referer'
+
+## 执行结束... 2022-05-01 16:06:00 耗时 0 秒

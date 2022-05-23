@@ -1,0 +1,44 @@
+## 开始执行... 2022-05-07 18:59:34
+
+
+🔔财富岛珍珠兑换, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2022/5/7 18:59:34=====================
+
+获取签名参数成功！
+fp: 0603884179096165
+token: tk01w9fc31c5230nbVMv49z1b7YVb5xb5q3bfvY/jSawosW896qO12pZCVjU8WhyDY/+dpo9sqOsyC+HlGTrfvEktYFT
+enCryptMethodJD: function test(tk,fp,ts,ai,algo){var rd='VMv49z1b7YVQ';var str=`${tk}${fp}${ts}${ai}${rd}`;return algo.SHA512(str)}
+
+******开始【京东账号1】jd_56ac883b2ee02*********
+
+refresh_perl: { "iRet" : 0, "sErrMsg" : "success"}
+当前余额: NaN
+
+❗️财富岛珍珠兑换, 错误!
+TypeError: Cannot read properties of undefined (reading 'prizeInfo')
+    at perl_auto (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_pearl_ex.js:65:47)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_pearl_ex.js:40:7
+请求兑换API后时间 2022-05-07 18:59:36 | 232
+
+******开始【京东账号2】jd_72476e50d1b0e*********
+
+refresh_perl: { "iRet" : 0, "sErrMsg" : "success"}
+当前余额: NaN
+
+❗️财富岛珍珠兑换, 错误!
+TypeError: Cannot read properties of undefined (reading 'prizeInfo')
+    at perl_auto (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_pearl_ex.js:65:47)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_pearl_ex.js:40:7
+请求兑换API后时间 2022-05-07 18:59:36 | 326
+
+🔔财富岛珍珠兑换, 结束! 🕛 1.739 秒
+
+
+## 执行结束... 2022-05-07 18:59:36 耗时 2 秒

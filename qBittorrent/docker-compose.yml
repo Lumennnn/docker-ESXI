@@ -1,0 +1,29 @@
+version: "2"
+services:
+  qbittorrent:
+    image: nevinee/qbittorrent
+    container_name: qbittorrent
+    hostname: qbittorrent
+    networks:
+      macvlan_ikuai:
+        ipv4_address: 192.168.1.203
+    dns:
+      - 233.5.5.5
+      - 114.114.114.114
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Shanghai # 你的时区
+      - UMASK_SET=022
+      - WEBUI_PORT=8081 # 将此处修改成你欲使用的 WEB 管理平台端口
+    volumes:
+      - ./config:/data/config # 绝对路径请修改为自己的config文件夹
+      - /ssd/pt_download:/data/downloads # 绝对路径请修改为自己的downloads文件夹
+      - /ssd/pt_download/to_download_torr:/data/watch
+      - /ssd/pt_download/downloaded_torr:/data/torrents
+    restart: unless-stopped
+
+networks:
+  macvlan_ikuai:
+    external:
+      name: ikuai

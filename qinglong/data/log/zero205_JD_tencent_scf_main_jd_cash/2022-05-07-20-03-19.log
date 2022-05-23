@@ -1,0 +1,46 @@
+## 开始执行... 2022-05-07 20:03:19
+
+
+🔔签到领现金, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2022/5/7 20:03:20=====================
+
+开始获取签到领现金配置文件
+
+共2个京东账号
+
+您提供了0个账号的签到领现金助力码
+
+
+******开始【京东账号1】Wang_Happy_*********
+
+"socket hang up"
+签到领现金 getSign API请求失败，请检查网路重试
+去做逛一逛任务 1/1
+任务完成成功
+由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+第1个京东账号将要助力的好友[{"inviteCode":"aUNmM6_nOP4j-W4"},{"inviteCode":"eU9YO4XYIqdUpw6VqRVV"},{"inviteCode":"eU9YaO3mMPV09W-EnXsS1g"},{"inviteCode":"eU9YaOvnM_4k9WrcnnAT1Q"},{"inviteCode":"eU9Yau3kZ_4g-DiByHEQ0A"},{"inviteCode":"ZnQya-i1Y_UmpGzUnnEX"},{"inviteCode":"fkFwauq3ZA"},{"inviteCode":"f0JyJuW7bvQ"},{"inviteCode":"IhM0bu-0b_kv8W6E"},{"inviteCode":"eU9YKpnxOLhYtQSygTJQ"},{"inviteCode":"-oaWtXEHOrT_bNMMVso"},{"inviteCode":"eU9YG7XaD4lXsR2krgpG"},{"inviteCode":"KxMzZOW7YvQ"},{"inviteCode":"eU9Ya7jnZP5w822BmntC0g"},{"inviteCode":"eU9YPa34F5lnpBWRjyp3"},{"inviteCode":"eU9YarnmYfRwpTzUziAV1Q"}]
+"Timeout awaiting 'request' for 30000ms"
+签到领现金 getSign API请求失败，请检查网路重试
+
+******开始【京东账号2】蓝闺q*********
+
+"Timeout awaiting 'request' for 30000ms"
+签到领现金 getSign API请求失败，请检查网路重试
+去做逛一逛任务 1/1
+任务完成成功
+由于您第2个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+第2个京东账号将要助力的好友[{"inviteCode":"aUNmM6_nOP4j-W4"},{"inviteCode":"eU9YO4XYIqdUpw6VqRVV"},{"inviteCode":"eU9YaO3mMPV09W-EnXsS1g"},{"inviteCode":"eU9YaOvnM_4k9WrcnnAT1Q"},{"inviteCode":"eU9Yau3kZ_4g-DiByHEQ0A"},{"inviteCode":"ZnQya-i1Y_UmpGzUnnEX"},{"inviteCode":"fkFwauq3ZA"},{"inviteCode":"f0JyJuW7bvQ"},{"inviteCode":"IhM0bu-0b_kv8W6E"},{"inviteCode":"eU9YKpnxOLhYtQSygTJQ"},{"inviteCode":"-oaWtXEHOrT_bNMMVso"},{"inviteCode":"eU9YG7XaD4lXsR2krgpG"},{"inviteCode":"KxMzZOW7YvQ"},{"inviteCode":"eU9Ya7jnZP5w822BmntC0g"},{"inviteCode":"eU9YPa34F5lnpBWRjyp3"},{"inviteCode":"eU9YarnmYfRwpTzUziAV1Q"}]
+"Timeout awaiting 'request' for 30000ms"
+签到领现金 getSign API请求失败，请检查网路重试
+
+🔔签到领现金, 结束! 🕛 139.021 秒
+
+
+## 执行结束... 2022-05-07 20:05:39 耗时 140 秒

@@ -1,0 +1,61 @@
+## 开始执行... 2022-05-08 23:15:00
+
+
+# 从日志提取互助码，编号和配置文件中Cookie编号完全对应，如果为空就是所有日志中都没有。
+
+# 即使某个MyXxx变量未赋值，也可以将其变量名填在ForOtherXxx中，jtask脚本会自动过滤空值。
+
+# 你选择的互助码模板为：按账号编号优先。
+
+## 东东农场：
+MyFruit1='3307dda3470e4e679a94b89338f92e21'
+MyFruit2='9866ec51345e413c9c4c3bbc9b49bca5'
+
+ForOtherFruit1="${MyFruit2}"
+ForOtherFruit2="${MyFruit1}"
+
+## 东东萌宠：
+MyPet1='MTE1NDY3NTMwMDAwMDAwNzkyNzU4OTE='
+MyPet2=''
+
+ForOtherPet1="${MyPet2}"
+ForOtherPet2="${MyPet1}"
+
+## 种豆得豆：
+MyBean1='mlrdw3aw26j3xlgkqcxwitxi72cosflpeawyela'
+MyBean2='4npkonnsy7xi3pjdfnamhrga4kegl3anxtfp7mq'
+
+ForOtherBean1="${MyBean2}"
+ForOtherBean2="${MyBean1}"
+
+## 京喜工厂：
+## 从日志中未找到任何互助码
+
+## 东东工厂：
+MyJdFactory1='T0225KkcRRhIplzfI0j2waIKdgCjVWnYaS5kRrbA'
+MyJdFactory2='T0225KkcRxwd8lKCJRqglaUKIQCjVWnYaS5kRrbA'
+
+ForOtherJdFactory1="${MyJdFactory2}"
+ForOtherJdFactory2="${MyJdFactory1}"
+
+## 签到领现金：
+## 从日志中未找到任何互助码
+
+## 闪购盲盒：
+MySgmh1='T0225KkcRRhIplzfI0j2waIKdgCjVQmoaT5kRrbA'
+MySgmh2='T0225KkcRxwd8lKCJRqglaUKIQCjVQmoaT5kRrbA'
+
+ForOtherSgmh1="${MySgmh2}"
+ForOtherSgmh2="${MySgmh1}"
+
+## 东东健康社区：
+MyHealth1='T0225KkcRRhIplzfI0j2waIKdgCjVfnoaW5kRrbA'
+MyHealth2='T0225KkcRxwd8lKCJRqglaUKIQCjVfnoaW5kRrbA'
+
+ForOtherHealth1="${MyHealth2}"
+ForOtherHealth2="${MyHealth1}"
+
+## 摇钱树：
+## 从日志中未找到任何互助码
+
+## 执行结束... 2022-05-08 23:15:01 耗时 1 秒

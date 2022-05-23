@@ -1,0 +1,56 @@
+## 开始执行... 2022-05-07 17:01:14
+
+
+🔔京东种豆得豆, 开始!
+开始获取种豆得豆配置文件
+
+
+====================共2个京东账号Cookie=================
+
+============脚本执行时间：2022/5/7 17:01:14=============
+
+>>>>>>>>>>>>>>6Dylan6 提示：任务正常运行中>>>>>>>>>>>>>>>
+
+由于您环境变量(PLANT_BEAN_SHARECODES)里面未提供助力码，故此处运行将会给脚本内置的码进行助力，请知晓！
+共2个京东账号
+
+您提供了0个账号的种豆得豆助力码
+
+开始【京东账号1】jd_72476e50d1b0e
+
+由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+
+第1个京东账号将要助力的好友["","nkvdrkoit5o65f5xuzqsyn77gybhewdu23jcwnq","gkk4336xszaego7dsrxicjujpktyuvtf6nifvmy","gkk4336xszaegs63nc5e5ekxs4asnebkgzsxiba","4npkonnsy7xi3k2rr6femuxvmae4svzshg4p4ia","e7lhibzb3zek247om3mzps5rv6mks7rjyj63ina","6jxosyz7xdbpvmxpfpclofm6wq","i6h4edm65umgunis2xc2cg3i5u","qwmkwedt5pnucqo52mc727oefzyneeke7pvdory","l4ex6vx6yynoud6rxzi344sryrc3tq725uyjmvy"]
+获取任务及基本信息
+
+❗️京东种豆得豆, 错误!
+TypeError: Cannot read properties of undefined (reading 'roundList')
+    at jdPlantBean (/ql/data/scripts/6dylan6_jdpro/jd_plantBean.js:89:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /ql/data/scripts/6dylan6_jdpro/jd_plantBean.js:68:7
+成员ID:@all企业微信应用消息发送通知消息成功🎉。
+
+
+==============📣系统通知📣==============
+京东种豆得豆
+京东账号1 jd_72476e50d1b0e
+任务执行异常，请检查执行日志 ‼️‼️
+
+
+
+开始【京东账号2】jd_56ac883b2ee02
+
+
+==============📣系统通知📣==============
+京东种豆得豆
+【提示】cookie已失效
+京东账号2 jd_56ac883b2ee02
+请重新登录获取
+https://bean.m.jd.com/bean/signIndex.action
+成员ID:@all企业微信应用消息发送通知消息成功🎉。
+
+
+🔔京东种豆得豆, 结束! 🕛 5.739 秒
+
+
+## 执行结束... 2022-05-07 17:01:30 耗时 16 秒

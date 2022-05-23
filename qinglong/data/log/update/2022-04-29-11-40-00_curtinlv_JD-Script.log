@@ -1,0 +1,69 @@
+## 开始执行... 2022-04-29 11:40:00
+
+开始克隆仓库 https://github.com/curtinlv/JD-Script.git 到 /ql/data/repo/curtinlv_JD-Script
+
+
+更新/ql/data/repo/curtinlv_JD-Script成功...
+
+检测到有新的定时任务：
+
+curtinlv_JD-Script/jd_qjd.py
+curtinlv_JD-Script/jd_tool_dl.py
+curtinlv_JD-Script/jd_jxgc_tuan.py
+curtinlv_JD-Script/jd_ddmc_help.py
+curtinlv_JD-Script/jd_kk_122-1.py
+curtinlv_JD-Script/jd_kk_shechong.py
+curtinlv_JD-Script/msg.py
+curtinlv_JD-Script/jd_kk_122-2.py
+curtinlv_JD-Script/jd_zjd.py
+curtinlv_JD-Script/jd_cashHelp.py
+curtinlv_JD-Script/jd_blueCoin.py
+curtinlv_JD-Script/jd_zddd_Help.py
+curtinlv_JD-Script/jd_kk_nhj.py
+curtinlv_JD-Script/jd_kk_h5kh.py
+curtinlv_JD-Script/jd_ddnc_help.py
+curtinlv_JD-Script/jd_kk_aj.py
+curtinlv_JD-Script/jd_qmkmb_help.py
+curtinlv_JD-Script/jd_cookie.py
+curtinlv_JD-Script/jd_kk_xcly.py
+curtinlv_JD-Script/getJDCookie.py
+curtinlv_JD-Script/jd_ccfxj_help.py
+curtinlv_JD-Script/jd_dbjh_125.py
+curtinlv_JD-Script/sendNotify.py
+curtinlv_JD-Script/jd_OpenCard.py
+curtinlv_JD-Script/jd_getFollowGift.py
+curtinlv_JD-Script/jd_kk_test.py
+curtinlv_JD-Script/jd_kk_vip.py
+
+开始尝试自动添加定时任务...
+
+全民抢京豆 10.29-11.12 -> 添加成功
+脚本依赖下载 for Curtinlv 仓库 -> 添加成功
+京喜工厂开团 -> 添加成功
+东东萌宠-助力 -> 添加成功
+大牌好礼带回家1.21-1.29 -> 添加成功
+奢宠会员-瓜分万元大奖 11.23-11.30 -> 添加成功
+msg.py -> 添加成功
+年货不打烊 好物带回家1.21-1.29 -> 添加成功
+jd_zjd.py -> 添加成功
+签到领现金-助力 -> 添加成功
+东东超市商品兑换 -> 添加成功
+种豆得豆-助力.py -> 添加成功
+超级年货节 惊喜不打烊1.14-1.21 -> 添加成功
+黑五狂欢-大牌好物等你购 11.25-12.01 -> 添加成功
+东东农场-助力 -> 添加成功
+安佳牛奶 11.1-11.30 -> 添加成功
+全民开红包-助力 -> 添加成功
+jd_cookie.py -> 添加成功
+新春礼遇 数倍加码1.12-2.10 -> 添加成功
+getJDCookie.py -> 添加成功
+城城分现金助 -> 添加成功
+大牌集合-瓜分千万豆1.24-2.14 -> 添加成功
+sendNotify.py -> 添加成功
+开卡有礼 -> 添加成功
+关注有礼 -> 添加成功
+品牌联合开卡 11.11-11.17 -> 添加成功
+会员邀新赢万元礼包1.10-1.28 -> 添加成功
+通知失败(null)
+
+## 执行结束... 2022-04-29 11:40:09  耗时 9 秒

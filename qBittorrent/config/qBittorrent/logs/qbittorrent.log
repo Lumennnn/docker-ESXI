@@ -1,0 +1,474 @@
+(N) 2022-05-17T20:36:08 - qBittorrent v4.4.2 started
+(N) 2022-05-17T20:36:08 - Using config directory: /config/qBittorrent
+(I) 2022-05-17T20:36:08 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-05-17T20:36:08 - Peer ID: -qB4420-
+(N) 2022-05-17T20:36:08 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-17T20:36:08 - DHT support [ON]
+(I) 2022-05-17T20:36:08 - Local Peer Discovery support [ON]
+(I) 2022-05-17T20:36:08 - PeX support [ON]
+(I) 2022-05-17T20:36:08 - Anonymous mode [OFF]
+(I) 2022-05-17T20:36:08 - Encryption support [ON]
+(W) 2022-05-17T20:36:08 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2022-05-17T20:36:08 - Using built-in Web UI.
+(W) 2022-05-17T20:36:08 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-05-17T20:36:08 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-05-17T20:36:08 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-05-17T20:36:08 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-05-17T20:36:08 - Successfully listening on IP: 192.168.1.4, port: TCP/6881
+(I) 2022-05-17T20:36:08 - Successfully listening on IP: 192.168.1.4, port: UTP/6881
+(I) 2022-05-17T20:36:08 - Successfully listening on IP: ::1, port: TCP/6881
+(I) 2022-05-17T20:36:08 - Successfully listening on IP: ::1, port: UTP/6881
+(I) 2022-05-17T20:36:08 - Successfully listening on IP: fe80::20c:29ff:fe8c:1524%ens192, port: TCP/6881
+(I) 2022-05-17T20:36:08 - Successfully listening on IP: fe80::20c:29ff:fe8c:1524%ens192, port: UTP/6881
+(W) 2022-05-17T20:39:09 - Couldn't download IP geolocation database file. Reason: Unknown error
+(N) 2022-05-17T20:42:03 - WebAPI login success. IP: ::ffff:192.168.1.100
+(N) 2022-05-17T20:42:41 - 已成功加载所选地区 (zh) 的 Web UI 翻译。
+(N) 2022-05-17T20:42:41 - Web UI：正在监听 IP：*，端口：8080
+(I) 2022-05-17T20:45:45 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-17T20:45:45 - DHT support [关闭]
+(W) 2022-05-17T20:45:45 - Restart is required to toggle PeX support
+(I) 2022-05-17T20:45:45 - Local Peer Discovery support [关闭]
+(I) 2022-05-17T20:45:45 - Anonymous mode [开启]
+(N) 2022-05-17T20:45:45 - Web UI：正在监听 IP：*，端口：8080
+(N) 2022-05-17T20:45:45 - 监视文件夹：“/downloads/to_download_torr”
+(I) 2022-05-17T20:45:45 - Trying to listen on: 0.0.0.0:54783,[::]:54783
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: TCP/6881
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: UDP/6881
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: TCP/8080
+(I) 2022-05-17T20:45:45 - Successfully listening on IP: 127.0.0.1, port: TCP/54783
+(I) 2022-05-17T20:45:45 - Successfully listening on IP: 127.0.0.1, port: UTP/54783
+(I) 2022-05-17T20:45:45 - Successfully listening on IP: 192.168.1.4, port: TCP/54783
+(I) 2022-05-17T20:45:45 - Successfully listening on IP: 192.168.1.4, port: UTP/54783
+(I) 2022-05-17T20:45:45 - Successfully listening on IP: ::1, port: TCP/54783
+(I) 2022-05-17T20:45:45 - Successfully listening on IP: ::1, port: UTP/54783
+(I) 2022-05-17T20:45:45 - Successfully listening on IP: fe80::20c:29ff:fe8c:1524%ens192, port: TCP/54783
+(I) 2022-05-17T20:45:45 - Successfully listening on IP: fe80::20c:29ff:fe8c:1524%ens192, port: UTP/54783
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-17T20:45:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(N) 2022-05-17T20:46:41 - 'A.Dirty.Carnival.2006.Blu-ray.1080p.AVC.DTS-HD.MA.5.1-DIY@PTHome' added to download list.
+(N) 2022-05-17T20:46:41 - 'TRANSPORTER_RFLD_BLUEBIRD' added to download list.
+(N) 2022-05-17T20:46:41 - 'Shemale Japan' added to download list.
+(N) 2022-05-17T20:46:41 - 'Its.Always.Sunny.in.Philadelphia.S11.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio' added to download list.
+(N) 2022-05-17T20:46:59 - 'Shemale Japan' was removed from the transfer list and hard disk.
+(N) 2022-05-17T20:47:37 - 'The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8' added to download list.
+(I) 2022-05-17T21:04:10 - Detected external IP: 113.200.194.40
+(I) 2022-05-17T21:04:18 - Detected external IP: 113.200.194.61
+(I) 2022-05-17T21:10:26 - UPnP / NAT-PMP support [OFF]
+(N) 2022-05-18T05:11:47 - qBittorrent v4.4.2 已启动
+(N) 2022-05-18T05:11:47 - 使用配置目录：/config/qBittorrent
+(I) 2022-05-18T05:11:47 - Trying to listen on: 0.0.0.0:54783,[::]:54783
+(N) 2022-05-18T05:11:47 - Peer ID: -qB4420-
+(N) 2022-05-18T05:11:47 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-18T05:11:47 - DHT support [关闭]
+(I) 2022-05-18T05:11:47 - Local Peer Discovery support [关闭]
+(I) 2022-05-18T05:11:47 - PeX support [关闭]
+(I) 2022-05-18T05:11:47 - Anonymous mode [开启]
+(I) 2022-05-18T05:11:47 - Encryption support [开启]
+(I) 2022-05-18T05:11:47 - UPnP / NAT-PMP support [ON]
+(W) 2022-05-18T05:11:47 - 无法加载 IP 地理数据库。原因：No such file or directory
+(N) 2022-05-18T05:11:47 - 使用内置 Web UI。
+(N) 2022-05-18T05:11:47 - 已成功加载所选地区 (zh) 的 Web UI 翻译。
+(N) 2022-05-18T05:11:47 - Web UI：正在监听 IP：*，端口：8080
+(I) 2022-05-18T05:11:47 - Successfully listening on IP: 127.0.0.1, port: TCP/54783
+(I) 2022-05-18T05:11:47 - Successfully listening on IP: 127.0.0.1, port: UTP/54783
+(I) 2022-05-18T05:11:47 - Successfully listening on IP: 192.168.1.4, port: TCP/54783
+(I) 2022-05-18T05:11:47 - Successfully listening on IP: 192.168.1.4, port: UTP/54783
+(I) 2022-05-18T05:11:47 - Successfully listening on IP: ::1, port: TCP/54783
+(I) 2022-05-18T05:11:47 - Successfully listening on IP: ::1, port: UTP/54783
+(I) 2022-05-18T05:11:47 - Successfully listening on IP: fe80::20c:29ff:fe8c:1524%ens192, port: TCP/54783
+(I) 2022-05-18T05:11:47 - Successfully listening on IP: fe80::20c:29ff:fe8c:1524%ens192, port: UTP/54783
+(I) 2022-05-18T05:11:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-18T05:11:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-18T05:11:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: TCP/8080
+(N) 2022-05-18T05:11:47 - 'TRANSPORTER_RFLD_BLUEBIRD' restored.
+(N) 2022-05-18T05:11:47 - 'Its.Always.Sunny.in.Philadelphia.S11.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio' restored.
+(N) 2022-05-18T05:11:47 - 'The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8' restored.
+(I) 2022-05-18T05:11:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(N) 2022-05-18T05:11:47 - 监视文件夹：“/downloads/to_download_torr”
+(N) 2022-05-18T05:11:47 - 'A.Dirty.Carnival.2006.Blu-ray.1080p.AVC.DTS-HD.MA.5.1-DIY@PTHome' restored.
+(I) 2022-05-18T05:11:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-18T05:11:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-18T05:11:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/8080
+(I) 2022-05-18T05:11:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-18T05:11:47 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/8080
+(I) 2022-05-18T05:11:48 - Detected external IP: 113.200.194.40
+(I) 2022-05-17T21:13:02 - IP 地理数据库已加载。类型：DBIP-Country-Lite。构建时间：Sun May 1 08:22:46 2022。
+(I) 2022-05-17T21:13:02 - 成功更新 IP 地理数据库。
+(I) 2022-05-17T21:15:04 - UPnP / NAT-PMP support [OFF]
+(N) 2022-05-18T05:20:14 - qBittorrent v4.4.2 已启动
+(N) 2022-05-18T05:20:14 - 使用配置目录：/config/qBittorrent
+(I) 2022-05-18T05:20:14 - Trying to listen on: 0.0.0.0:54783,[::]:54783
+(N) 2022-05-18T05:20:14 - Peer ID: -qB4420-
+(N) 2022-05-18T05:20:14 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-18T05:20:14 - DHT support [关闭]
+(I) 2022-05-18T05:20:14 - Local Peer Discovery support [关闭]
+(I) 2022-05-18T05:20:14 - PeX support [关闭]
+(I) 2022-05-18T05:20:14 - Anonymous mode [开启]
+(I) 2022-05-18T05:20:14 - Encryption support [开启]
+(I) 2022-05-18T05:20:14 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-18T05:20:14 - IP 地理数据库已加载。类型：DBIP-Country-Lite。构建时间：Sun May 1 08:22:46 2022。
+(N) 2022-05-18T05:20:14 - 使用内置 Web UI。
+(N) 2022-05-18T05:20:14 - 已成功加载所选地区 (zh) 的 Web UI 翻译。
+(N) 2022-05-18T05:20:14 - Web UI：正在监听 IP：*，端口：8080
+(I) 2022-05-18T05:20:14 - Successfully listening on IP: 127.0.0.1, port: TCP/54783
+(I) 2022-05-18T05:20:14 - Successfully listening on IP: 127.0.0.1, port: UTP/54783
+(I) 2022-05-18T05:20:14 - Successfully listening on IP: 192.168.1.4, port: TCP/54783
+(I) 2022-05-18T05:20:14 - Successfully listening on IP: 192.168.1.4, port: UTP/54783
+(I) 2022-05-18T05:20:14 - Successfully listening on IP: ::1, port: TCP/54783
+(I) 2022-05-18T05:20:14 - Successfully listening on IP: ::1, port: UTP/54783
+(I) 2022-05-18T05:20:14 - Successfully listening on IP: fe80::20c:29ff:fe8c:1524%ens192, port: TCP/54783
+(I) 2022-05-18T05:20:14 - Successfully listening on IP: fe80::20c:29ff:fe8c:1524%ens192, port: UTP/54783
+(I) 2022-05-18T05:20:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-18T05:20:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-18T05:20:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.4 external port: TCP/8080
+(I) 2022-05-18T05:20:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-18T05:20:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-18T05:20:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-18T05:20:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/8080
+(N) 2022-05-18T05:20:14 - 'TRANSPORTER_RFLD_BLUEBIRD' restored.
+(N) 2022-05-18T05:20:14 - 'Its.Always.Sunny.in.Philadelphia.S11.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio' restored.
+(N) 2022-05-18T05:20:14 - 'The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8' restored.
+(N) 2022-05-18T05:20:14 - 'A.Dirty.Carnival.2006.Blu-ray.1080p.AVC.DTS-HD.MA.5.1-DIY@PTHome' restored.
+(N) 2022-05-18T05:20:14 - 监视文件夹：“/downloads/to_download_torr”
+(I) 2022-05-18T05:20:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-18T05:20:14 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/8080
+(I) 2022-05-18T05:20:15 - Detected external IP: 113.200.194.60
+(N) 2022-05-17T21:22:20 - WebAPI 登录成功。IP：::ffff:192.168.1.100
+(N) 2022-05-17T21:44:53 - Web UI：正在监听 IP：*，端口：8080
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-05-17T21:52:21 - Successfully listening on IP: 192.168.1.4, port: TCP/54783
+(I) 2022-05-17T21:52:21 - Successfully listening on IP: 192.168.1.4, port: UTP/54783
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using NAT-PMP[192.168.1.4]: no resources
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using NAT-PMP[192.168.1.4]: no resources
+(I) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.4]: Action Failed
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.4]: Action Failed
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(C) 2022-05-17T21:52:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[0.0.0.0]: -1 (unknown HTTP error)
+(I) 2022-05-17T21:52:22 - Successfully listening on IP: 192.168.1.4, port: TCP/54783
+(I) 2022-05-17T21:52:22 - Successfully listening on IP: 192.168.1.4, port: UTP/54783
+(C) 2022-05-17T21:52:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using NAT-PMP[192.168.1.4]: no resources
+(C) 2022-05-17T21:52:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using NAT-PMP[192.168.1.4]: no resources
+(I) 2022-05-17T21:52:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(I) 2022-05-17T21:52:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(I) 2022-05-17T21:52:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: TCP/54783
+(C) 2022-05-17T21:52:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.4]: Action Failed
+(I) 2022-05-17T21:52:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.4 external port: UDP/54783
+(C) 2022-05-17T21:52:22 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.4]: Action Failed
+(I) 2022-05-17T21:52:24 - Detected external IP: 113.200.194.46
+(N) 2022-05-17T21:54:58 - 'Star.Wars.The.Clone.Wars.星球大战动画：克隆人战争.S01-S07.1080p.BluRay' added to download list.
+(N) 2022-05-17T21:55:27 - 'TRANSPORTER_RFLD_BLUEBIRD' was removed from the transfer list and hard disk.
+(W) 2022-05-17T21:55:32 - File error alert. Torrent: "Star.Wars.The.Clone.Wars.星球大战动画：克隆人战争.S01-S07.1080p.BluRay". File: "/downloads/downloaded/Star.Wars.The.Clone.Wars.星球大战动画：克隆人战争.S01-S07.1080p.BluRay/Star.Wars.The.Clone.Wars.S03.1080p/Star.Wars.The.Clone.Wars.S03E22.Wookiee Hunt.mkv.!qB". Reason: Star.Wars.The.Clone.Wars.星球大战动画：克隆人战争.S01-S07.1080p.BluRay file_fallocate (/downloads/downloaded/Star.Wars.The.Clone.Wars.星球大战动画：克隆人战争.S01-S07.1080p.BluRay/Star.Wars.The.Clone.Wars.S03.1080p/Star.Wars.The.Clone.Wars.S03E22.Wookiee Hunt.mkv.!qB) error: Not supported
+(N) 2022-05-17T21:59:06 - 'Star.Wars.The.Clone.Wars.星球大战动画：克隆人战争.S01-S07.1080p.BluRay' was removed from the transfer list and hard disk.
+(N) 2022-05-17T22:25:04 - 'Forbidden Planet 1956 1080p Bluray VC-1 DTS-HD MA 5.1-BaggerInc' added to download list.
+(W) 2022-05-17T22:28:42 - File error alert. Torrent: "Forbidden Planet 1956 1080p Bluray VC-1 DTS-HD MA 5.1-BaggerInc". File: "/downloads/downloaded/Forbidden Planet 1956 1080p Bluray VC-1 DTS-HD MA 5.1-BaggerInc/BDMV/STREAM/00020.m2ts.!qB". Reason: Forbidden Planet 1956 1080p Bluray VC-1 DTS-HD MA 5.1-BaggerInc file_fallocate (/downloads/downloaded/Forbidden Planet 1956 1080p Bluray VC-1 DTS-HD MA 5.1-BaggerInc/BDMV/STREAM/00020.m2ts.!qB) error: Not supported
+(N) 2022-05-17T22:54:43 - 'Its.Always.Sunny.in.Philadelphia.S11.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio' was removed from the transfer list.
+(N) 2022-05-17T22:54:43 - 'Forbidden Planet 1956 1080p Bluray VC-1 DTS-HD MA 5.1-BaggerInc' was removed from the transfer list.
+(N) 2022-05-17T22:54:43 - 'The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8' was removed from the transfer list.
+(N) 2022-05-17T22:54:43 - 'A.Dirty.Carnival.2006.Blu-ray.1080p.AVC.DTS-HD.MA.5.1-DIY@PTHome' was removed from the transfer list.
+(I) 2022-05-17T23:02:55 - UPnP / NAT-PMP support [OFF]
+(N) 2022-05-18T18:36:20 - qBittorrent v4.4.2 已启动
+(N) 2022-05-18T18:36:20 - 使用配置目录：/config/qBittorrent
+(I) 2022-05-18T18:36:20 - Trying to listen on: 0.0.0.0:54783,[::]:54783
+(N) 2022-05-18T18:36:20 - Peer ID: -qB4420-
+(N) 2022-05-18T18:36:20 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-18T18:36:20 - DHT support [关闭]
+(I) 2022-05-18T18:36:20 - Local Peer Discovery support [关闭]
+(I) 2022-05-18T18:36:20 - PeX support [关闭]
+(I) 2022-05-18T18:36:20 - Anonymous mode [开启]
+(I) 2022-05-18T18:36:20 - Encryption support [开启]
+(I) 2022-05-18T18:36:20 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-18T18:36:20 - IP 地理数据库已加载。类型：DBIP-Country-Lite。构建时间：Sun May 1 08:22:46 2022。
+(N) 2022-05-18T18:36:20 - 使用内置 Web UI。
+(N) 2022-05-18T18:36:20 - 已成功加载所选地区 (zh) 的 Web UI 翻译。
+(N) 2022-05-18T18:36:20 - Web UI：正在监听 IP：*，端口：8081
+(I) 2022-05-18T18:36:20 - Successfully listening on IP: 127.0.0.1, port: TCP/54783
+(I) 2022-05-18T18:36:20 - Successfully listening on IP: 127.0.0.1, port: UTP/54783
+(I) 2022-05-18T18:36:20 - Successfully listening on IP: 192.168.1.1, port: TCP/54783
+(I) 2022-05-18T18:36:20 - Successfully listening on IP: 192.168.1.1, port: UTP/54783
+(I) 2022-05-18T18:36:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.1 external port: TCP/54783
+(I) 2022-05-18T18:36:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.1 external port: UDP/54783
+(I) 2022-05-18T18:36:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.1 external port: TCP/8081
+(I) 2022-05-18T18:36:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.1 external port: TCP/54783
+(I) 2022-05-18T18:36:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.1 external port: UDP/54783
+(N) 2022-05-18T18:36:20 - 监视文件夹：“/downloads/to_download_torr”
+(C) 2022-05-18T18:36:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.1]: Action Failed
+(I) 2022-05-18T18:36:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.1 external port: TCP/8081
+(C) 2022-05-18T18:36:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.1]: Action Failed
+(C) 2022-05-18T18:36:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.1]: Action Failed
+(I) 2022-05-18T18:41:42 - UPnP / NAT-PMP support [OFF]
+(N) 2022-05-20T21:57:30 - qBittorrent v4.4.2 已启动
+(N) 2022-05-20T21:57:30 - 使用配置目录：/config/qBittorrent
+(I) 2022-05-20T21:57:30 - Trying to listen on: 0.0.0.0:54783,[::]:54783
+(N) 2022-05-20T21:57:30 - Peer ID: -qB4420-
+(N) 2022-05-20T21:57:30 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-20T21:57:30 - DHT support [关闭]
+(I) 2022-05-20T21:57:30 - Local Peer Discovery support [关闭]
+(I) 2022-05-20T21:57:30 - PeX support [关闭]
+(I) 2022-05-20T21:57:30 - Anonymous mode [开启]
+(I) 2022-05-20T21:57:30 - Encryption support [开启]
+(I) 2022-05-20T21:57:30 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-20T21:57:30 - IP 地理数据库已加载。类型：DBIP-Country-Lite。构建时间：Sun May 1 08:22:46 2022。
+(N) 2022-05-20T21:57:30 - 使用内置 Web UI。
+(N) 2022-05-20T21:57:30 - 已成功加载所选地区 (zh) 的 Web UI 翻译。
+(N) 2022-05-20T21:57:30 - Web UI：正在监听 IP：*，端口：8081
+(I) 2022-05-20T21:57:30 - Successfully listening on IP: 127.0.0.1, port: TCP/54783
+(I) 2022-05-20T21:57:30 - Successfully listening on IP: 127.0.0.1, port: UTP/54783
+(I) 2022-05-20T21:57:30 - Successfully listening on IP: 192.168.1.203, port: TCP/54783
+(I) 2022-05-20T21:57:30 - Successfully listening on IP: 192.168.1.203, port: UTP/54783
+(I) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(N) 2022-05-20T21:57:30 - 监视文件夹：“/downloads/to_download_torr”
+(I) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: TCP/54783
+(C) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.203]: Action Failed
+(I) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: TCP/8081
+(C) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.203]: Action Failed
+(I) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: TCP/8081
+(C) 2022-05-20T21:57:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.203]: Action Failed
+(N) 2022-05-20T21:58:04 - WebAPI 登录成功。IP：::ffff:192.168.1.100
+(I) 2022-05-20T22:32:04 - UPnP / NAT-PMP support [OFF]
+(N) 2022-05-21T07:34:17 - qBittorrent v4.4.2 已启动
+(N) 2022-05-21T07:34:17 - 使用配置目录：/config/qBittorrent
+(I) 2022-05-21T07:34:17 - Trying to listen on: 0.0.0.0:54783,[::]:54783
+(N) 2022-05-21T07:34:17 - Peer ID: -qB4420-
+(N) 2022-05-21T07:34:17 - HTTP User-Agent is 'qBittorrent/4.4.2'
+(I) 2022-05-21T07:34:17 - DHT support [关闭]
+(I) 2022-05-21T07:34:17 - Local Peer Discovery support [关闭]
+(I) 2022-05-21T07:34:17 - PeX support [关闭]
+(I) 2022-05-21T07:34:17 - Anonymous mode [开启]
+(I) 2022-05-21T07:34:17 - Encryption support [开启]
+(I) 2022-05-21T07:34:17 - UPnP / NAT-PMP support [ON]
+(I) 2022-05-21T07:34:17 - IP 地理数据库已加载。类型：DBIP-Country-Lite。构建时间：Sun May 1 08:22:46 2022。
+(N) 2022-05-21T07:34:17 - 使用内置 Web UI。
+(N) 2022-05-21T07:34:17 - 已成功加载所选地区 (zh) 的 Web UI 翻译。
+(N) 2022-05-21T07:34:17 - Web UI：正在监听 IP：*，端口：8081
+(I) 2022-05-21T07:34:17 - Successfully listening on IP: 127.0.0.1, port: TCP/54783
+(I) 2022-05-21T07:34:17 - Successfully listening on IP: 127.0.0.1, port: UTP/54783
+(I) 2022-05-21T07:34:17 - Successfully listening on IP: 192.168.1.203, port: TCP/54783
+(I) 2022-05-21T07:34:17 - Successfully listening on IP: 192.168.1.203, port: UTP/54783
+(I) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: TCP/8081
+(C) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.203]: Action Failed
+(I) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. local: 192.168.1.203 external port: TCP/8081
+(C) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.203]: Action Failed
+(N) 2022-05-21T07:34:17 - 监视文件夹：“/downloads/to_download_torr”
+(C) 2022-05-21T07:34:17 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP[192.168.1.203]: Action Failed
+(N) 2022-05-21T07:40:52 - WebAPI 登录成功。IP：::ffff:192.168.1.100
+(N) 2022-05-21T07:41:12 - '新村あかり' added to download list.
+(N) 2022-05-21T07:41:12 - 'AVIdolz' added to download list.
+(I) 2022-05-21T07:41:14 - Detected external IP: 113.200.194.44
+(N) 2022-05-21T07:48:14 - 'Ie.Uru.Onna.2016.Disney+.WEB-DL.1080p.H264.AAC-HDCTV' added to download list.
+(N) 2022-05-21T07:48:14 - 'The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8' added to download list.
+(N) 2022-05-21T07:48:41 - 'JoJo no Kimyo na Boken - Diamond is unbreakable D01 2016 1080p Blu-ray AVC DTS-HD MA 2.1-blucook#300@CHDBits' added to download list.
+(N) 2022-05-21T07:49:35 - WebAPI 登录成功。IP：::ffff:192.168.1.222
+(N) 2022-05-21T08:03:22 - WebAPI 登录成功。IP：::ffff:192.168.1.101
+(N) 2022-05-21T08:05:33 - Web UI：正在监听 IP：*，端口：8081
+(I) 2022-05-21T08:13:34 - Detected external IP: 113.200.194.39
+(I) 2022-05-21T08:15:26 - Detected external IP: 113.200.194.39
+(N) 2022-05-21T08:16:19 - Web UI：正在监听 IP：*，端口：8081
+(N) 2022-05-21T08:16:57 - Web UI：正在监听 IP：*，端口：8081
+(I) 2022-05-21T08:17:06 - Detected external IP: 113.200.194.48
+(I) 2022-05-21T08:19:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T08:19:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T08:19:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T08:19:51 - Detected external IP: 113.200.194.44
+(N) 2022-05-21T08:42:24 - Web UI：正在监听 IP：*，端口：8081
+(I) 2022-05-21T09:04:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T09:04:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T09:04:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T09:49:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T09:49:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T09:49:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T10:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T10:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T10:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T11:19:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T11:19:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T11:19:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T12:04:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T12:04:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T12:04:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T12:49:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T12:49:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T12:49:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T13:34:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T13:34:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T13:34:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T14:19:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T14:19:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T14:19:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T15:04:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T15:04:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T15:04:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T15:49:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T15:49:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T15:49:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T16:34:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T16:34:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T16:34:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T17:19:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T17:19:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T17:19:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(N) 2022-05-21T17:30:29 - Web UI：正在监听 IP：*，端口：8081
+(N) 2022-05-21T17:32:57 - 'AVIdolz' was removed from the transfer list and hard disk.
+(N) 2022-05-21T17:33:14 - '新村あかり' was removed from the transfer list and hard disk.
+(N) 2022-05-21T17:38:38 - Web UI：正在监听 IP：*，端口：8081
+(N) 2022-05-21T17:42:47 - '[ComiCat&Sakurato] Bubble [WEBRip][AVC-8bit 1080P@60FPS AAC][CHT&JPN].mp4' added to download list.
+(N) 2022-05-21T17:42:47 - '丁丁历险记' added to download list.
+(N) 2022-05-21T17:42:47 - 'Haunted.1995.1080p.BluRay.x264.DD2.0' added to download list.
+(N) 2022-05-21T17:42:47 - 'Silent.Witness.2013.CHINESE.1080p.BluRay.x264.DD5.1-LHD.mkv' added to download list.
+(N) 2022-05-21T17:42:47 - 'Halo.S01.2160p.WEB-DL.H265.HDR.DDP5.1.Atmos-JAKET789' added to download list.
+(N) 2022-05-21T17:42:47 - 'Full.Metal.Jacket.1987.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.REMUX-FraMeSToR' added to download list.
+(I) 2022-05-21T18:04:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T18:04:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T18:04:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(N) 2022-05-21T18:43:25 - Downloading 'https://kp.m-team.cc/download.php?id=550608&passkey=00eb6f91db0a954ce6d804a8324729d2&https=1&ipv4=1', please wait...
+(N) 2022-05-21T18:43:26 - Downloading 'https://www.hitpt.com/download.php?id=35783&passkey=5903f47579a5026b837b22f7da75bb58', please wait...
+(N) 2022-05-21T18:43:26 - Downloading 'https://www.haidan.video/download.php?id=31996&passkey=b68bd01fb66aebfdad6e4ae41e7fd5be', please wait...
+(N) 2022-05-21T18:43:26 - Downloading 'https://www.hd.ai/download.php?id=7584&uid=11031&hash=97ec8022d29e042aec4377923cbab638&https=1&ipv4=1&provider=iyuu&sign=433984e8d211fcd677438c39713adb852b93019a&time=1653101002', please wait...
+(N) 2022-05-21T18:43:26 - Downloading 'https://www.pttime.org/download.php?id=26896&passkey=73a0e14cbaea73f60ff17a7a8a4f706b', please wait...
+(N) 2022-05-21T18:43:26 - Downloading 'https://kp.m-team.cc/download.php?id=571489&passkey=00eb6f91db0a954ce6d804a8324729d2&https=1&ipv4=1', please wait...
+(N) 2022-05-21T18:43:27 - 'The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8' added to download list.
+(N) 2022-05-21T18:43:27 - 'The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8' added to download list.
+(N) 2022-05-21T18:43:29 - 'The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8' added to download list.
+(N) 2022-05-21T18:43:30 - 'The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8' added to download list.
+(N) 2022-05-21T18:43:32 - 'Ie.Uru.Onna.2016.Disney+.WEB-DL.1080p.H264.AAC-HDCTV' added to download list.
+(I) 2022-05-21T18:49:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T18:49:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T18:49:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T19:34:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T19:34:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T19:34:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T20:19:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T20:19:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T20:19:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T21:13:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T21:13:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T21:13:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T21:58:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T21:58:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T21:58:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T22:43:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T22:43:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T22:43:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-21T23:28:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-21T23:28:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-21T23:28:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T00:13:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T00:13:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T00:13:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T00:58:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T00:58:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T00:58:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T01:43:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T01:43:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T01:43:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T02:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T02:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T02:28:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T03:13:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T03:13:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T03:13:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T03:58:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T03:58:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T03:58:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(N) 2022-05-22T04:01:01 - Downloading 'https://kp.m-team.cc/download.php?id=539224&passkey=00eb6f91db0a954ce6d804a8324729d2&https=1&ipv4=1', please wait...
+(N) 2022-05-22T04:01:01 - Downloading 'https://www.haidan.video/download.php?id=32095&passkey=b68bd01fb66aebfdad6e4ae41e7fd5be', please wait...
+(N) 2022-05-22T04:01:20 - 'Full.Metal.Jacket.1987.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.REMUX-FraMeSToR' added to download list.
+(I) 2022-05-22T04:43:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T04:43:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T04:43:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T05:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T05:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T05:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T06:13:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T06:13:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T06:13:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(N) 2022-05-22T06:44:57 - 'Love.Death.and.Robots.S03.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF' added to download list.
+(N) 2022-05-22T06:52:59 - 'Scream.2.1997.1080p.AUS.BluRay.Remux.AVC.DTS-HD.MA.5.1-Iceyumao@Dream' added to download list.
+(N) 2022-05-22T06:52:59 - 'Operation.Petticoat.1959.1080p.Blu-ray.Hevc.10bit.DTS-HD.MA.2.0-Iceyumao@Dream' added to download list.
+(W) 2022-05-22T06:53:58 - Received error message from a URL seed. Torrent: "Operation.Petticoat.1959.1080p.Blu-ray.Hevc.10bit.DTS-HD.MA.2.0-Iceyumao@Dream". URL: "https://www.hddolby.com/". Message: "503 Service Temporarily Unavailable"
+(W) 2022-05-22T06:55:55 - Received error message from a URL seed. Torrent: "Scream.2.1997.1080p.AUS.BluRay.Remux.AVC.DTS-HD.MA.5.1-Iceyumao@Dream". URL: "https://www.hddolby.com/". Message: "503 Service Temporarily Unavailable"
+(N) 2022-05-22T06:55:56 - Web UI：正在监听 IP：*，端口：8081
+(I) 2022-05-22T06:58:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T06:58:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T06:58:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(N) 2022-05-22T07:01:02 - Downloading 'https://kp.m-team.cc/download.php?id=577264&passkey=00eb6f91db0a954ce6d804a8324729d2&https=1&ipv4=1', please wait...
+(I) 2022-05-22T07:43:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T07:43:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T07:43:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T08:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T08:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T08:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T09:13:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T09:13:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T09:13:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T09:58:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T09:58:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T09:58:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T10:43:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T10:43:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T10:43:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(N) 2022-05-22T11:01:04 - Downloading 'https://kp.m-team.cc/download.php?id=577418&passkey=00eb6f91db0a954ce6d804a8324729d2&https=1&ipv4=1', please wait...
+(N) 2022-05-22T11:01:04 - Downloading 'https://hdtime.org/download.php?id=31490&passkey=38aedcdd55dff462b989729193493586', please wait...
+(N) 2022-05-22T11:01:04 - Downloading 'https://www.hitpt.com/download.php?id=35923&passkey=5903f47579a5026b837b22f7da75bb58', please wait...
+(N) 2022-05-22T11:01:04 - Downloading 'https://www.pttime.org/download.php?id=27330&passkey=73a0e14cbaea73f60ff17a7a8a4f706b', please wait...
+(N) 2022-05-22T11:01:04 - Downloading 'https://www.haidan.video/download.php?id=32146&passkey=b68bd01fb66aebfdad6e4ae41e7fd5be', please wait...
+(N) 2022-05-22T11:01:04 - Downloading 'https://www.haidan.video/download.php?id=32157&passkey=b68bd01fb66aebfdad6e4ae41e7fd5be', please wait...
+(W) 2022-05-22T11:03:44 - Couldn't load torrent: unexpected end of file in bencoded string
+(I) 2022-05-22T11:28:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T11:28:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T11:28:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T12:13:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T12:13:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T12:13:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T12:58:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T12:58:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T12:58:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T13:43:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T13:43:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T13:43:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T14:28:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T14:28:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T14:28:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T15:13:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T15:13:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T15:13:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T15:58:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T15:58:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T15:58:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T16:43:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T16:43:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T16:43:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(I) 2022-05-22T17:28:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/54783
+(I) 2022-05-22T17:28:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: UDP/54783
+(I) 2022-05-22T17:28:55 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using NAT-PMP. local: 192.168.1.203 external port: TCP/8081
+(N) 2022-05-22T17:52:02 - 'Love.Death.and.Robots.S03.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF' was removed from the transfer list.

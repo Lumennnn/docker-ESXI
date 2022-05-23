@@ -1,0 +1,405 @@
+## 开始执行... 2022-05-07 23:11:16
+
+
+🔔京喜财富岛合成月饼, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2022/5/7 23:11:17=====================
+
+获取签名参数成功！
+fp: 7083854665421165
+token: tk02we4bc1d4c18nrcnNM3IuinvzS5bq+T0mrrHcij4WjDRZqsvoV4R2ExNCvkPlcdsZSy1wTAIhdTxSqUkIb54eT4UN
+enCryptMethodJD: function test(tk,fp,ts,ai,algo){var rd='cnNM3Iuinvz3';var str=`${tk}${fp}${ts}${ai}${rd}`;return algo.HmacSHA512(str,tk)}
+
+******开始【京东账号1】Wang_Happy_*********
+
+获取用户信息：success
+
+
+当前等级:undefined,金币:undefined,财富值:undefined,连续营业天数:undefined,离线收益:undefined
+
+每日抽奖
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'dwIsDraw')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:257:38
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+领助力奖励
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'HelpList')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:188:59
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+合成月饼
+合成月饼运行次数为：3
+
+当前已合成undefined颗月饼，总计获得NaN元红包
+今日已完成
+
+当前已合成undefined颗月饼，总计获得NaN元红包
+今日已完成
+
+当前已合成undefined颗月饼，总计获得NaN元红包
+今日已完成
+
+
+******开始【京东账号2】蓝闺q*********
+
+获取用户信息：success
+
+
+当前等级:undefined,金币:undefined,财富值:undefined,连续营业天数:undefined,离线收益:undefined
+
+每日抽奖
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'dwIsDraw')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:257:38
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+领助力奖励
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'HelpList')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:188:59
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+合成月饼
+合成月饼运行次数为：3
+
+当前已合成undefined颗月饼，总计获得NaN元红包
+今日已完成
+
+当前已合成undefined颗月饼，总计获得NaN元红包
+今日已完成
+
+当前已合成undefined颗月饼，总计获得NaN元红包
+今日已完成
+
+您将要助力的好友["1D1F32CD6B54D3434653A081107DD16BA790C547C6F3FBDA3DB411C9203007AE","42347940D73D325746D27F6EAD4DE8FC3442471D8E355C75B722E9072CEED0A2","B17DA52975F97CA14842D65FE1C084F999BA55EF04281D8DC94F45BDE8CBC9C2","2951E520CD2AF8A4209F6C232310F0B2B37CEA05FE139F1CA2B4008EA4FBB6AA","18B55F13B93ADF0CD114396C9AF35066A99117BEAD7AAA4A29954CE8EADEA319","28D71F43873BFC641137953AFCD6C01E72C94D93426E84888E1CA833CD86A1BC","B4C43D9BE46BA2B386464428A53C590722D30D9FC0851A31276319E3CEB50D3B","6F03B53F3AFCCB3100023C0A0671F77ACA15599DBA0A6D57FA1BEFFA686B04B7","36A1FD1237F229116D5AF68DC4B55487190EEDC32EDBD7B73BD528498CF78FB8","838D2C9F8DA59193D05C299747BE06FB80FAB086CDE1C8F6BAA58944508F3EF6","A3AEB427978B5F60DBCD092B7CCA1190A2F84589E0B0B1870F36694F3B2B3B11","591551F4D00080C048E6F8D89AFD8319CAD78C062D6978FA27A0A0A661DE9DCE","3E3E2FC80068FF8BA15FE95572C15556212E00413EA19AD9D29BEBEEE00FAC27","E9863F49D5B92D8525F92097D4E969E483DC1D0D768402B5983FE8CA4FD50051","452E94C73FA3B6D18D53600BEC657022FF8D1B4EB4996EC38DAF37B6E56EABCA","62F4243E2A4D0D63C7F70A89B5CF057347AEA92F9993FD35004F9C7C31B938ED","A029E3E6DA72DCA8142DCC7372347FB71266F259AF8E30BB7F692B6BEAA37894","7B5F692BF621D298854BDAF146649A21ED1EFE4F7FE6DF65D281BF111A3CABED","DEFEBB4244F76FFC5E1D37CFDAA8C7C7ACAAF9D68E78CD32B6AA9F6B25669794","F6EEA90AA596C110F9F67E9D460A9C4C5B6BFE05B88B4FB4D0AFF6078FCAA0CE","9EA01DEDC7A1168F2E3C839BE78E6ACBC4F0D34C4E91BA0A43BA9970F6081F64","083D02E7D73E06BB5AFC9182543F65E8A3383F07AF971062B78ABF7214A66080"]
+
+开始互助
+
+账号jd_56ac883b2ee02 去助力 1D1F32CD6B54D3434653A081107DD16BA790C547C6F3FBDA3DB411C9203007AE
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 42347940D73D325746D27F6EAD4DE8FC3442471D8E355C75B722E9072CEED0A2
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 B17DA52975F97CA14842D65FE1C084F999BA55EF04281D8DC94F45BDE8CBC9C2
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 2951E520CD2AF8A4209F6C232310F0B2B37CEA05FE139F1CA2B4008EA4FBB6AA
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 18B55F13B93ADF0CD114396C9AF35066A99117BEAD7AAA4A29954CE8EADEA319
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 28D71F43873BFC641137953AFCD6C01E72C94D93426E84888E1CA833CD86A1BC
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 B4C43D9BE46BA2B386464428A53C590722D30D9FC0851A31276319E3CEB50D3B
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 6F03B53F3AFCCB3100023C0A0671F77ACA15599DBA0A6D57FA1BEFFA686B04B7
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 36A1FD1237F229116D5AF68DC4B55487190EEDC32EDBD7B73BD528498CF78FB8
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 838D2C9F8DA59193D05C299747BE06FB80FAB086CDE1C8F6BAA58944508F3EF6
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 A3AEB427978B5F60DBCD092B7CCA1190A2F84589E0B0B1870F36694F3B2B3B11
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 591551F4D00080C048E6F8D89AFD8319CAD78C062D6978FA27A0A0A661DE9DCE
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 3E3E2FC80068FF8BA15FE95572C15556212E00413EA19AD9D29BEBEEE00FAC27
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 E9863F49D5B92D8525F92097D4E969E483DC1D0D768402B5983FE8CA4FD50051
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 452E94C73FA3B6D18D53600BEC657022FF8D1B4EB4996EC38DAF37B6E56EABCA
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 62F4243E2A4D0D63C7F70A89B5CF057347AEA92F9993FD35004F9C7C31B938ED
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 A029E3E6DA72DCA8142DCC7372347FB71266F259AF8E30BB7F692B6BEAA37894
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 7B5F692BF621D298854BDAF146649A21ED1EFE4F7FE6DF65D281BF111A3CABED
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 DEFEBB4244F76FFC5E1D37CFDAA8C7C7ACAAF9D68E78CD32B6AA9F6B25669794
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 F6EEA90AA596C110F9F67E9D460A9C4C5B6BFE05B88B4FB4D0AFF6078FCAA0CE
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 9EA01DEDC7A1168F2E3C839BE78E6ACBC4F0D34C4E91BA0A43BA9970F6081F64
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_56ac883b2ee02 去助力 083D02E7D73E06BB5AFC9182543F65E8A3383F07AF971062B78ABF7214A66080
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+开始互助
+
+账号jd_72476e50d1b0e 去助力 1D1F32CD6B54D3434653A081107DD16BA790C547C6F3FBDA3DB411C9203007AE
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 42347940D73D325746D27F6EAD4DE8FC3442471D8E355C75B722E9072CEED0A2
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 B17DA52975F97CA14842D65FE1C084F999BA55EF04281D8DC94F45BDE8CBC9C2
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 2951E520CD2AF8A4209F6C232310F0B2B37CEA05FE139F1CA2B4008EA4FBB6AA
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 18B55F13B93ADF0CD114396C9AF35066A99117BEAD7AAA4A29954CE8EADEA319
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 28D71F43873BFC641137953AFCD6C01E72C94D93426E84888E1CA833CD86A1BC
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 B4C43D9BE46BA2B386464428A53C590722D30D9FC0851A31276319E3CEB50D3B
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 6F03B53F3AFCCB3100023C0A0671F77ACA15599DBA0A6D57FA1BEFFA686B04B7
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 36A1FD1237F229116D5AF68DC4B55487190EEDC32EDBD7B73BD528498CF78FB8
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 838D2C9F8DA59193D05C299747BE06FB80FAB086CDE1C8F6BAA58944508F3EF6
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 A3AEB427978B5F60DBCD092B7CCA1190A2F84589E0B0B1870F36694F3B2B3B11
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 591551F4D00080C048E6F8D89AFD8319CAD78C062D6978FA27A0A0A661DE9DCE
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 3E3E2FC80068FF8BA15FE95572C15556212E00413EA19AD9D29BEBEEE00FAC27
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 E9863F49D5B92D8525F92097D4E969E483DC1D0D768402B5983FE8CA4FD50051
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 452E94C73FA3B6D18D53600BEC657022FF8D1B4EB4996EC38DAF37B6E56EABCA
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 62F4243E2A4D0D63C7F70A89B5CF057347AEA92F9993FD35004F9C7C31B938ED
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 A029E3E6DA72DCA8142DCC7372347FB71266F259AF8E30BB7F692B6BEAA37894
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 7B5F692BF621D298854BDAF146649A21ED1EFE4F7FE6DF65D281BF111A3CABED
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 DEFEBB4244F76FFC5E1D37CFDAA8C7C7ACAAF9D68E78CD32B6AA9F6B25669794
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 F6EEA90AA596C110F9F67E9D460A9C4C5B6BFE05B88B4FB4D0AFF6078FCAA0CE
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 9EA01DEDC7A1168F2E3C839BE78E6ACBC4F0D34C4E91BA0A43BA9970F6081F64
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+账号jd_72476e50d1b0e 去助力 083D02E7D73E06BB5AFC9182543F65E8A3383F07AF971062B78ABF7214A66080
+
+❗️京喜财富岛合成月饼, 错误!
+TypeError: Cannot read properties of undefined (reading 'strPrizeName')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:414:55
+    at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_cfd_mooncake.js:914:4869)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+🔔京喜财富岛合成月饼, 结束! 🕛 134.01 秒
+
+
+## 执行结束... 2022-05-07 23:13:31 耗时 135 秒

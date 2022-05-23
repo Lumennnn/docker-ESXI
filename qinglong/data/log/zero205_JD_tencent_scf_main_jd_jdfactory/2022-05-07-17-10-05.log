@@ -1,0 +1,360 @@
+## 开始执行... 2022-05-07 17:10:05
+
+
+🔔东东工厂, 开始!
+您的cookie选择的是用&隔开
+
+
+====================共有2个京东账号Cookie=========
+
+==================脚本执行- 北京时间(UTC+8)：2022/5/7 17:10:05=====================
+
+【注意】本脚本默认会给助力池进行助力！
+如需加入助力池请添加TG群：https://t.me/jd_zero_205
+如不加入助力池互助，可添加变量名称：JD_JOIN_ZLC，变量值：false
+
+开始获取东东工厂配置文件
+
+共2个京东账号
+
+您提供了2个账号的东东工厂助力码
+
+
+******开始【京东账号1】jd_72476e50d1b0e*********
+
+
+==============📣系统通知📣==============
+东东工厂
+【提示】cookie已失效
+京东账号1 jd_72476e50d1b0e
+请重新登录获取
+https://bean.m.jd.com/bean/signIndex.action
+成员ID:@all企业微信应用消息发送通知消息成功🎉。
+
+
+******开始【京东账号2】jd_56ac883b2ee02*********
+
+
+==============📣系统通知📣==============
+东东工厂
+【提示】cookie已失效
+京东账号2 jd_56ac883b2ee02
+请重新登录获取
+https://bean.m.jd.com/bean/signIndex.action
+成员ID:@all企业微信应用消息发送通知消息成功🎉。
+
+第1个京东账号的助力码:::T0225KkcRUxL9FKDJh7ylvMLcACjVWnYaS5kRrbA@T0225KkcRx0Q_AaCdRr1xf8DIQCjVWnYaS5kRrbA@T0225KkcRksZpgDSIBj3xvADdQCjVWnYaS5kRrbA@T018v_52Qxge81HeJB2b1ACjVWnYaS5kRrbA@T0205KkcPFd_vD2uSkCi3YhXCjVWnYaS5kRrbA
+开始
+随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+第1个京东账号将要助力的好友["T0225KkcRUxL9FKDJh7ylvMLcACjVWnYaS5kRrbA","T0225KkcRx0Q_AaCdRr1xf8DIQCjVWnYaS5kRrbA","T0225KkcRksZpgDSIBj3xvADdQCjVWnYaS5kRrbA","T018v_52Qxge81HeJB2b1ACjVWnYaS5kRrbA","T0205KkcPFd_vD2uSkCi3YhXCjVWnYaS5kRrbA","T0225KkcRRlL8FWGIhP2k_YKfQCjVWnYaS5kRrbA","T0225KkcRk9L8FGGKEjzlfdYJgCjVWnYaS5kRrbA","T023v_12SBwc9VXRJQf9kfUNcXgCjVWnYaS5kRrbA","T0205KkcBGheqjSiR2GLxoxoCjVWnYaS5kRrbA","T0225KkcRk1I9AXVJEz1x6QCdgCjVWnYaS5kRrbA","T0205KkcAkBrvC-CWEKMyoFNCjVWnYaS5kRrbA","T0225KkcRRwe8ADQIxzxkqJbdQCjVWnYaS5kRrbA","T0205KkcGW1TtxGuSnuI95ZUCjVWnYaS5kRrbA","T0225KkcRU9L9lbQck_0l6VbdwCjVWnYaS5kRrbA","T0106aMsFBsY9wCjVWnYaS5kRrbA","T0225KkcRUwQo1bSdE_9lfEJcwCjVWnYaS5kRrbA","T0205KkcBV1wizysdX-1xZ5VCjVWnYaS5kRrbA","T0205KkcPm9clSu0V1Kg66BdCjVWnYaS5kRrbA","T0225KkcRk9L8ADXJR6iwPQPcgCjVWnYaS5kRrbA","T010-KgtE0cY9gCjVWnYaS5kRrbA","T0225KkcRh9PoFHQIRignKVfcQCjVWnYaS5kRrbA","T0205KkcAkZetB6VX1m0_rBtCjVWnYaS5kRrbA","T0225KkcRU8RpFeBJkv1kqQKcACjVWnYaS5kRrbA","T0225KkcRBwQ8lXSJh-ikaQIcgCjVWnYaS5kRrbA","T0125LgtSR4Y9VbSCjVWnYaS5kRrbA"]
+您未填写助力码变量，开始账号内互助，再帮【zero205】助力
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+第2个京东账号的助力码:::T0225KkcRUxL9FKDJh7ylvMLcACjVWnYaS5kRrbA@T0225KkcRx0Q_AaCdRr1xf8DIQCjVWnYaS5kRrbA@T0225KkcRksZpgDSIBj3xvADdQCjVWnYaS5kRrbA@T018v_52Qxge81HeJB2b1ACjVWnYaS5kRrbA@T0205KkcPFd_vD2uSkCi3YhXCjVWnYaS5kRrbA
+开始
+随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+第2个京东账号将要助力的好友["T0225KkcRUxL9FKDJh7ylvMLcACjVWnYaS5kRrbA","T0225KkcRx0Q_AaCdRr1xf8DIQCjVWnYaS5kRrbA","T0225KkcRksZpgDSIBj3xvADdQCjVWnYaS5kRrbA","T018v_52Qxge81HeJB2b1ACjVWnYaS5kRrbA","T0205KkcPFd_vD2uSkCi3YhXCjVWnYaS5kRrbA","T0074KwtGVYCjVWnYaS5kRrbA","T0225KkcREsaplbQdhjyxfEMcACjVWnYaS5kRrbA","T0157LR3QBoY9lLXIB0CjVWnYaS5kRrbA","T0225KkcRRsRp1DTJUzzwvALJgCjVWnYaS5kRrbA","T0225KkcRhZP9ADeIBilk_YLfQCjVWnYaS5kRrbA","T0225KkcRxdI812GJRmglvILcgCjVWnYaS5kRrbA","T0225KkcR0tI9lSBdhj2kvRedgCjVWnYaS5kRrbA","T0225KkcRE0aoF2CJB_2k6RZJgCjVWnYaS5kRrbA","T0087bQcRBwYCjVWnYaS5kRrbA","T0146awuFUB2sguJdwCjVWnYaS5kRrbA","T0225KkcRBdIoFLUJh_2wPQNdQCjVfnoaW5kRrbA","T010xIgBNWBggACjVWnYaS5kRrbA","T0245KkcNH5rlTaAXlP3lZ4ML0N8CjVWnYaS5kRrbA","T0225KkcREpM9ALfKUv2xfJZIACjVWnYaS5kRrbA","T015uPx1RhoR_VDST0cCjVWnYaS5kRrbA","T0205KkcPV16kwakaEaR8oZLCjVWnYaS5kRrbA","T020-5J0SBwe9FKEIh7zk_cMCjVWnYaS5kRrbA","T0225KkcRBtKoQfRJxv1nPcCcgCjVWnYaS5kRrbA","T0205KkcF1lNkQWFaXmlwIpQCjVWnYaS5kRrbA","T024aWrRma62Id5z9aRcQ3aJoTWYCjVWnYaS5kRrbA"]
+您未填写助力码变量，开始账号内互助，再帮【zero205】助力
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'bizCode')
+    at /ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:413:27
+    at got.post.then.message (/ql/data/scripts/zero205_JD_tencent_scf_main/jd_jdfactory.js:856:6688)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+🔔东东工厂, 结束! 🕛 61.311 秒
+
+
+## 执行结束... 2022-05-07 17:11:06 耗时 61 秒

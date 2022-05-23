@@ -1,0 +1,69 @@
+2022-05-22 07:34:25,296	INFO: 【DOUBAN】开始同步豆瓣数据...
+2022-05-22 07:34:25,350	INFO: 【DOUBAN】开始获取 166011562 的 do 数据...
+2022-05-22 07:34:25,360	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-22 07:34:25,795	INFO: 【DOUBAN】第 1 页有 0 个媒体
+2022-05-22 07:34:25,795	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-22 07:34:25,796	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-22 07:34:25,796	INFO: 【DOUBAN】用户 166011562 的 do 解析完成，共获取到 0 个媒体
+2022-05-22 07:34:25,796	INFO: 【DOUBAN】开始获取 166011562 的 wish 数据...
+2022-05-22 07:34:25,796	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-22 07:34:26,227	INFO: 【DOUBAN】第 1 页有 7 个媒体
+2022-05-22 07:34:26,227	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-22 07:34:26,227	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-22 07:34:26,228	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-22 07:34:26,228	INFO: 【DOUBAN】用户 166011562 的 wish 解析完成，共获取到 0 个媒体
+2022-05-22 07:34:26,228	INFO: 【DOUBAN】开始获取 166011562 的 collect 数据...
+2022-05-22 07:34:26,228	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-22 07:34:26,857	INFO: 【DOUBAN】第 1 页有 8 个媒体
+2022-05-22 07:34:26,858	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-22 07:34:26,858	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-22 07:34:26,858	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-22 07:34:26,858	INFO: 【DOUBAN】用户 166011562 的 collect 解析完成，共获取到 0 个媒体
+2022-05-22 07:34:26,858	INFO: 【DOUBAN】用户 166011562 解析完成，共获取到 0 个媒体
+2022-05-22 07:34:26,859	INFO: 【DOUBAN】所有用户解析完成，共获取到 0 个媒体
+2022-05-22 08:44:25,605	INFO: 【SYNC】开始转移监控目录文件...
+2022-05-22 08:44:25,606	INFO: 【RMT】开始处理：/media/pt_baocun/downloaded/Love.Death.and.Robots.S03.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF
+2022-05-22 08:44:25,612	INFO: 【META】正在识别电视剧：Love Death and Robots, 年份= ...
+2022-05-22 08:44:28,808	INFO: 【RMT】正在转移文件：Love.Death.and.Robots.S03E01.Three.Robots.Exit.Strategies.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 到 Love, Death & Robots - S03E01 - 第 1 集.mkv
+2022-05-22 08:44:28,828	ERROR: 【RMT】文件 Love.Death.and.Robots.S03E01.Three.Robots.Exit.Strategies.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 硬链接失败，错误码：1
+2022-05-22 08:44:28,830	INFO: 【RMT】正在转移文件：Love.Death.and.Robots.S03E02.Bad.Travelling.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 到 Love, Death & Robots - S03E02 - 第 2 集.mkv
+2022-05-22 08:44:28,837	ERROR: 【RMT】文件 Love.Death.and.Robots.S03E02.Bad.Travelling.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 硬链接失败，错误码：1
+2022-05-22 08:44:28,839	INFO: 【RMT】正在转移文件：Love.Death.and.Robots.S03E03.The.Very.Pulse.of.the.Machine.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 到 Love, Death & Robots - S03E03 - 第 3 集.mkv
+2022-05-22 08:44:28,847	ERROR: 【RMT】文件 Love.Death.and.Robots.S03E03.The.Very.Pulse.of.the.Machine.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 硬链接失败，错误码：1
+2022-05-22 08:44:28,849	INFO: 【RMT】正在转移文件：Love.Death.and.Robots.S03E04.Night.of.the.Mini.Dead.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 到 Love, Death & Robots - S03E04 - 第 4 集.mkv
+2022-05-22 08:44:28,857	ERROR: 【RMT】文件 Love.Death.and.Robots.S03E04.Night.of.the.Mini.Dead.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 硬链接失败，错误码：1
+2022-05-22 08:44:28,859	INFO: 【RMT】正在转移文件：Love.Death.and.Robots.S03E05.Kill.Team.Kill.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 到 Love, Death & Robots - S03E05 - 第 5 集.mkv
+2022-05-22 08:44:28,866	ERROR: 【RMT】文件 Love.Death.and.Robots.S03E05.Kill.Team.Kill.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 硬链接失败，错误码：1
+2022-05-22 08:44:28,868	INFO: 【RMT】正在转移文件：Love.Death.and.Robots.S03E06.Swarm.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 到 Love, Death & Robots - S03E06 - 第 6 集.mkv
+2022-05-22 08:44:28,875	ERROR: 【RMT】文件 Love.Death.and.Robots.S03E06.Swarm.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 硬链接失败，错误码：1
+2022-05-22 08:44:28,877	INFO: 【RMT】正在转移文件：Love.Death.and.Robots.S03E07.Masons.Rats.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 到 Love, Death & Robots - S03E07 - 第 7 集.mkv
+2022-05-22 08:44:28,885	ERROR: 【RMT】文件 Love.Death.and.Robots.S03E07.Masons.Rats.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 硬链接失败，错误码：1
+2022-05-22 08:44:28,886	INFO: 【RMT】正在转移文件：Love.Death.and.Robots.S03E08.In.Vaulted.Halls.Entombed.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 到 Love, Death & Robots - S03E08 - 第 8 集.mkv
+2022-05-22 08:44:28,894	ERROR: 【RMT】文件 Love.Death.and.Robots.S03E08.In.Vaulted.Halls.Entombed.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 硬链接失败，错误码：1
+2022-05-22 08:44:28,897	INFO: 【RMT】正在转移文件：Love.Death.and.Robots.S03E09.Jibaro.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 到 Love, Death & Robots - S03E09 - 第 9 集.mkv
+2022-05-22 08:44:28,905	ERROR: 【RMT】文件 Love.Death.and.Robots.S03E09.Jibaro.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF.mkv 硬链接失败，错误码：1
+2022-05-22 08:44:28,906	INFO: 【RMT】/media/pt_baocun/downloaded/Love.Death.and.Robots.S03.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF 处理完成，总数：9，失败：9
+2022-05-22 08:44:28,906	WARNING: 【SYNC】/media/pt_baocun/downloaded/Love.Death.and.Robots.S03.1080p.NF.WEB-DL.DDP5.1.Atmos.x264-SMURF转移失败：文件转移失败，错误码：1
+2022-05-22 13:34:25,289	INFO: 【DOUBAN】开始同步豆瓣数据...
+2022-05-22 13:34:25,292	INFO: 【DOUBAN】开始获取 166011562 的 do 数据...
+2022-05-22 13:34:25,304	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-22 13:34:25,909	INFO: 【DOUBAN】第 1 页有 0 个媒体
+2022-05-22 13:34:25,909	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-22 13:34:25,911	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-22 13:34:25,911	INFO: 【DOUBAN】用户 166011562 的 do 解析完成，共获取到 0 个媒体
+2022-05-22 13:34:25,911	INFO: 【DOUBAN】开始获取 166011562 的 wish 数据...
+2022-05-22 13:34:25,911	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-22 13:34:26,279	INFO: 【DOUBAN】第 1 页有 7 个媒体
+2022-05-22 13:34:26,279	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-22 13:34:26,279	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-22 13:34:26,279	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-22 13:34:26,280	INFO: 【DOUBAN】用户 166011562 的 wish 解析完成，共获取到 0 个媒体
+2022-05-22 13:34:26,280	INFO: 【DOUBAN】开始获取 166011562 的 collect 数据...
+2022-05-22 13:34:26,280	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-22 13:34:26,579	INFO: 【DOUBAN】第 1 页有 8 个媒体
+2022-05-22 13:34:26,579	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-22 13:34:26,579	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-22 13:34:26,579	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-22 13:34:26,579	INFO: 【DOUBAN】用户 166011562 的 collect 解析完成，共获取到 0 个媒体
+2022-05-22 13:34:26,581	INFO: 【DOUBAN】用户 166011562 解析完成，共获取到 0 个媒体
+2022-05-22 13:34:26,581	INFO: 【DOUBAN】所有用户解析完成，共获取到 0 个媒体

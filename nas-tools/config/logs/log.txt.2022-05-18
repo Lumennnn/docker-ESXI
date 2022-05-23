@@ -1,0 +1,1854 @@
+2022-05-18 14:53:08,627	INFO: WEB管理页面用户：admin
+2022-05-18 14:53:08,627	INFO: 未启用https，请使用 http://IP:3000 访问管理页面
+2022-05-18 14:53:08,627	ERROR: TMDB API Key未配置，媒体识别、搜索下载等功能将无法正常运行！
+2022-05-18 14:53:08,628	INFO: TMDB匹配模式：正常模式
+2022-05-18 14:53:08,628	INFO: 媒体管理软件设置为：emby
+2022-05-18 14:53:08,628	WARNING: emby配置不完整，部分功能将无法使用
+2022-05-18 14:53:08,629	ERROR: 电影媒体库目录不存在：/mnt/media/电影
+2022-05-18 14:53:08,629	ERROR: 电视剧媒体库目录不存在：/mnt/media/电视剧
+2022-05-18 14:53:08,630	ERROR: 动漫媒体库目录不存在：/mnt/media/动漫
+2022-05-18 14:53:08,665	INFO: 电影分类：华语电影 外语电影
+2022-05-18 14:53:08,665	INFO: 电视剧分类：动漫 纪录片 儿童 综艺 国产剧 欧美剧 日韩剧 未分类
+2022-05-18 14:53:08,665	INFO: 动漫分类：动漫
+2022-05-18 14:53:08,666	WARNING: 微信配置不完整，将无法接收到通知消息！
+2022-05-18 14:53:08,666	WARNING: 微信Token、EncodingAESKey未配置，微信控制功能将无法使用
+2022-05-18 14:53:08,666	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/resiliosync/大片抢先看
+2022-05-18 14:53:08,667	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/pt
+2022-05-18 14:53:08,667	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/pt
+2022-05-18 14:53:08,667	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/pt_music
+2022-05-18 14:53:08,667	INFO: 目录同步转移模式为：硬链接
+2022-05-18 14:53:08,668	INFO: PT下载软件设置为：qbittorrent
+2022-05-18 14:53:08,668	WARNING: Qbittorrent下载目录配置不完整，可能无法正常下载！
+2022-05-18 14:53:08,668	INFO: PT下载文件转移模式为：硬链接
+2022-05-18 14:53:08,668	INFO: PT检索软件设置为：jackett
+2022-05-18 14:53:08,669	INFO: 微信等移动端渠道搜索已开启自动择优下载
+2022-05-18 14:53:08,669	INFO: PT保种时间未配置，自动删种功能已关闭
+2022-05-18 14:53:08,669	INFO: 下载软件监控未开启，PT下载监控功能已关闭
+2022-05-18 14:53:09,003	INFO: 【RUN】scheduler.pt_signin启动...
+2022-05-18 14:53:09,008	INFO: 【RUN】scheduler.rss_download启动...
+2022-05-18 14:53:09,009	INFO: 【RUN】scheduler.douban_sync启动...
+2022-05-18 14:53:09,010	INFO: 【SYNC】读取到监控目录：/mnt/resiliosync/大片抢先看
+2022-05-18 14:53:09,010	ERROR: 【SYNC】/mnt/resiliosync/大片抢先看 目录不存在！
+2022-05-18 14:53:09,010	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby
+2022-05-18 14:53:09,011	INFO: 【SYNC】目的目录不存在，正在创建：/mnt/emby
+2022-05-18 14:53:09,011	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 14:53:09,011	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby，未识别目录：/mnt/unknown
+2022-05-18 14:53:09,011	INFO: 【SYNC】未识别目录不存在，正在创建：/mnt/unknown
+2022-05-18 14:53:09,012	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 14:53:09,012	INFO: 【SYNC】读取到监控目录：/mnt/pt_music，目的目录：mnt/emby_music
+2022-05-18 14:53:09,012	INFO: 【SYNC】/mnt/pt_music 不进行识别和重命名
+2022-05-18 14:53:09,012	INFO: 【SYNC】目的目录不存在，正在创建：mnt/emby_music
+2022-05-18 14:53:09,013	ERROR: 【SYNC】/mnt/pt_music 目录不存在！
+2022-05-18 14:55:00,654	INFO: WEB管理页面用户：admin
+2022-05-18 14:55:00,654	INFO: 未启用https，请使用 http://IP:3000 访问管理页面
+2022-05-18 14:55:00,654	ERROR: TMDB API Key未配置，媒体识别、搜索下载等功能将无法正常运行！
+2022-05-18 14:55:00,654	INFO: TMDB匹配模式：正常模式
+2022-05-18 14:55:00,654	INFO: 媒体管理软件设置为：emby
+2022-05-18 14:55:00,655	WARNING: emby配置不完整，部分功能将无法使用
+2022-05-18 14:55:00,655	ERROR: 电影媒体库目录不存在：/mnt/media/电影
+2022-05-18 14:55:00,655	ERROR: 电视剧媒体库目录不存在：/mnt/media/电视剧
+2022-05-18 14:55:00,655	ERROR: 动漫媒体库目录不存在：/mnt/media/动漫
+2022-05-18 14:55:00,689	INFO: 电影分类：华语电影 外语电影
+2022-05-18 14:55:00,689	INFO: 电视剧分类：动漫 纪录片 儿童 综艺 国产剧 欧美剧 日韩剧 未分类
+2022-05-18 14:55:00,690	INFO: 动漫分类：动漫
+2022-05-18 14:55:00,690	WARNING: 微信配置不完整，将无法接收到通知消息！
+2022-05-18 14:55:00,690	WARNING: 微信Token、EncodingAESKey未配置，微信控制功能将无法使用
+2022-05-18 14:55:00,690	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/resiliosync/大片抢先看
+2022-05-18 14:55:00,690	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/pt
+2022-05-18 14:55:00,691	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/pt
+2022-05-18 14:55:00,691	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/pt_music
+2022-05-18 14:55:00,691	INFO: 目录同步转移模式为：硬链接
+2022-05-18 14:55:00,691	INFO: PT下载软件设置为：qbittorrent
+2022-05-18 14:55:00,691	WARNING: Qbittorrent下载目录配置不完整，可能无法正常下载！
+2022-05-18 14:55:00,692	INFO: PT下载文件转移模式为：硬链接
+2022-05-18 14:55:00,692	INFO: PT检索软件设置为：jackett
+2022-05-18 14:55:00,692	INFO: 微信等移动端渠道搜索已开启自动择优下载
+2022-05-18 14:55:00,692	INFO: PT保种时间未配置，自动删种功能已关闭
+2022-05-18 14:55:00,692	INFO: 下载软件监控未开启，PT下载监控功能已关闭
+2022-05-18 14:55:00,974	INFO: 【RUN】scheduler.pt_signin启动...
+2022-05-18 14:55:00,978	INFO: 【RUN】scheduler.rss_download启动...
+2022-05-18 14:55:00,980	INFO: 【RUN】scheduler.douban_sync启动...
+2022-05-18 14:55:00,981	INFO: 【SYNC】读取到监控目录：/mnt/resiliosync/大片抢先看
+2022-05-18 14:55:00,981	ERROR: 【SYNC】/mnt/resiliosync/大片抢先看 目录不存在！
+2022-05-18 14:55:00,982	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby
+2022-05-18 14:55:00,982	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 14:55:00,982	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby，未识别目录：/mnt/unknown
+2022-05-18 14:55:00,982	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 14:55:00,983	INFO: 【SYNC】读取到监控目录：/mnt/pt_music，目的目录：mnt/emby_music
+2022-05-18 14:55:00,983	INFO: 【SYNC】/mnt/pt_music 不进行识别和重命名
+2022-05-18 14:55:00,983	ERROR: 【SYNC】/mnt/pt_music 目录不存在！
+2022-05-18 15:13:49,865	INFO: 【RUN】scheduler.pt_signin启动...
+2022-05-18 15:13:49,873	INFO: 【RUN】scheduler.rss_download启动...
+2022-05-18 15:13:49,877	INFO: 【RUN】scheduler.douban_sync启动...
+2022-05-18 15:13:51,946	INFO: 【RUN】scheduler.pt_signin启动...
+2022-05-18 15:13:51,951	INFO: 【RUN】scheduler.rss_download启动...
+2022-05-18 15:13:51,954	INFO: 【RUN】scheduler.douban_sync启动...
+2022-05-18 15:21:08,064	INFO: WEB管理页面用户：admin
+2022-05-18 15:21:08,064	INFO: 未启用https，请使用 http://IP:3000 访问管理页面
+2022-05-18 15:21:08,064	INFO: TMDB匹配模式：正常模式
+2022-05-18 15:21:08,064	INFO: 媒体管理软件设置为：emby
+2022-05-18 15:21:08,065	WARNING: emby配置不完整，部分功能将无法使用
+2022-05-18 15:21:08,065	ERROR: 电影媒体库目录不存在：/mnt/media/电影
+2022-05-18 15:21:08,065	ERROR: 电视剧媒体库目录不存在：/mnt/media/电视剧
+2022-05-18 15:21:08,099	INFO: 电影分类：华语电影 外语电影
+2022-05-18 15:21:08,100	INFO: 电视剧分类：动漫 纪录片 儿童 综艺 国产剧 欧美剧 日韩剧 未分类
+2022-05-18 15:21:08,100	INFO: 动漫分类：动漫
+2022-05-18 15:21:08,100	WARNING: 微信Token、EncodingAESKey未配置，微信控制功能将无法使用
+2022-05-18 15:21:08,100	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/resiliosync/大片抢先看
+2022-05-18 15:21:08,101	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/pt
+2022-05-18 15:21:08,101	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/pt
+2022-05-18 15:21:08,101	WARNING: 目录不存在，该目录同步功能已关闭：/mnt/pt_music
+2022-05-18 15:21:08,101	INFO: 目录同步转移模式为：硬链接
+2022-05-18 15:21:08,101	INFO: PT下载软件设置为：qbittorrent
+2022-05-18 15:21:08,102	WARNING: Qbittorrent下载目录配置不完整，可能无法正常下载！
+2022-05-18 15:21:08,102	INFO: PT下载文件转移模式为：硬链接
+2022-05-18 15:21:08,102	INFO: PT检索软件设置为：jackett
+2022-05-18 15:21:08,102	INFO: 微信等移动端渠道搜索已开启自动择优下载
+2022-05-18 15:21:08,102	INFO: PT保种时间未配置，自动删种功能已关闭
+2022-05-18 15:21:08,102	INFO: 下载软件监控未开启，PT下载监控功能已关闭
+2022-05-18 15:21:08,711	INFO: 【RUN】scheduler.pt_signin启动...
+2022-05-18 15:21:08,721	INFO: 【RUN】scheduler.rss_download启动...
+2022-05-18 15:21:08,726	INFO: 【RUN】scheduler.douban_sync启动...
+2022-05-18 15:21:08,728	INFO: 【SYNC】读取到监控目录：/mnt/resiliosync/大片抢先看
+2022-05-18 15:21:08,729	ERROR: 【SYNC】/mnt/resiliosync/大片抢先看 目录不存在！
+2022-05-18 15:21:08,729	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby
+2022-05-18 15:21:08,729	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 15:21:08,730	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby，未识别目录：/mnt/unknown
+2022-05-18 15:21:08,730	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 15:21:08,731	INFO: 【SYNC】读取到监控目录：/mnt/pt_music，目的目录：mnt/emby_music
+2022-05-18 15:21:08,731	INFO: 【SYNC】/mnt/pt_music 不进行识别和重命名
+2022-05-18 15:21:08,732	ERROR: 【SYNC】/mnt/pt_music 目录不存在！
+2022-05-18 15:21:33,435	INFO: 【PT】开始转移文件...
+2022-05-18 15:21:33,458	ERROR: 【RUN】执行任务pt_transfer出错：Failed to connect to qBittorrent. Connection Error: ConnectionError(MaxRetryError("HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /api/v2/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcf795c3130>: Failed to establish a new connection: [Errno 111] Connection refused'))"))
+2022-05-18 15:23:57,205	INFO: 【DOUBAN】开始同步豆瓣数据...
+2022-05-18 15:23:57,206	INFO: 【DOUBAN】开始获取 Wang.Happy 的 do 数据...
+2022-05-18 15:23:57,206	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-18 15:23:57,356	ERROR: 【DOUBAN】网络连接失败：https://movie.douban.com/people/Wang.Happy/do?start=0&sort=time&rating=all&filter=all&mode=grid
+2022-05-18 15:23:57,357	WARNING: 【DOUBAN】解析失败：'NoneType' object has no attribute 'select'
+2022-05-18 15:23:57,357	ERROR: 【RUN】执行任务douban_sync出错：'url_list'
+2022-05-18 15:24:00,488	INFO: 【PT】开始转移文件...
+2022-05-18 15:24:00,515	ERROR: 【RUN】执行任务pt_transfer出错：Failed to connect to qBittorrent. Connection Error: ConnectionError(MaxRetryError("HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /api/v2/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcf7959dc10>: Failed to establish a new connection: [Errno 111] Connection refused'))"))
+2022-05-18 15:25:00,452	INFO: 【RUN】scheduler.pt_signin启动...
+2022-05-18 15:25:00,458	INFO: 【RUN】scheduler.rss_download启动...
+2022-05-18 15:25:00,463	INFO: 【RUN】scheduler.douban_sync启动...
+2022-05-18 15:25:05,412	INFO: 【DOUBAN】开始同步豆瓣数据...
+2022-05-18 15:25:05,413	INFO: 【DOUBAN】开始获取 173136587 的 do 数据...
+2022-05-18 15:25:05,413	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-18 15:25:05,697	INFO: 【DOUBAN】第 1 页有 0 个媒体
+2022-05-18 15:25:05,697	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-18 15:25:05,698	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-18 15:25:05,698	INFO: 【DOUBAN】用户 173136587 的 do 解析完成，共获取到 0 个媒体
+2022-05-18 15:25:05,698	INFO: 【DOUBAN】开始获取 173136587 的 wish 数据...
+2022-05-18 15:25:05,698	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-18 15:25:06,292	INFO: 【DOUBAN】第 1 页有 15 个媒体
+2022-05-18 15:25:06,293	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-18 15:25:06,293	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-18 15:25:06,293	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-18 15:25:06,294	INFO: 【DOUBAN】用户 173136587 的 wish 解析完成，共获取到 0 个媒体
+2022-05-18 15:25:06,294	INFO: 【DOUBAN】开始获取 173136587 的 collect 数据...
+2022-05-18 15:25:06,294	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-18 15:25:06,815	INFO: 【DOUBAN】第 1 页有 15 个媒体
+2022-05-18 15:25:06,815	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-18 15:25:06,815	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-18 15:25:06,815	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-18 15:25:06,816	INFO: 【DOUBAN】用户 173136587 的 collect 解析完成，共获取到 0 个媒体
+2022-05-18 15:25:06,816	INFO: 【DOUBAN】用户 173136587 解析完成，共获取到 0 个媒体
+2022-05-18 15:25:06,816	INFO: 【DOUBAN】所有用户解析完成，共获取到 0 个媒体
+2022-05-18 15:27:07,118	INFO: 【RUN】scheduler.pt_signin启动...
+2022-05-18 15:27:07,124	INFO: 【RUN】scheduler.rss_download启动...
+2022-05-18 15:27:07,128	INFO: 【RUN】scheduler.douban_sync启动...
+2022-05-18 15:27:11,457	INFO: 【DOUBAN】开始同步豆瓣数据...
+2022-05-18 15:27:11,458	INFO: 【DOUBAN】开始获取 166011562 的 do 数据...
+2022-05-18 15:27:11,458	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-18 15:27:11,718	INFO: 【DOUBAN】第 1 页有 0 个媒体
+2022-05-18 15:27:11,718	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-18 15:27:11,718	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-18 15:27:11,718	INFO: 【DOUBAN】用户 166011562 的 do 解析完成，共获取到 0 个媒体
+2022-05-18 15:27:11,719	INFO: 【DOUBAN】开始获取 166011562 的 wish 数据...
+2022-05-18 15:27:11,719	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-18 15:27:12,024	INFO: 【DOUBAN】第 1 页有 7 个媒体
+2022-05-18 15:27:12,024	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-18 15:27:12,025	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-18 15:27:12,025	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-18 15:27:12,025	INFO: 【DOUBAN】用户 166011562 的 wish 解析完成，共获取到 0 个媒体
+2022-05-18 15:27:12,025	INFO: 【DOUBAN】开始获取 166011562 的 collect 数据...
+2022-05-18 15:27:12,025	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-18 15:27:12,548	INFO: 【DOUBAN】第 1 页有 8 个媒体
+2022-05-18 15:27:12,548	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-18 15:27:12,549	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-18 15:27:12,549	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-18 15:27:12,549	INFO: 【DOUBAN】用户 166011562 的 collect 解析完成，共获取到 0 个媒体
+2022-05-18 15:27:12,549	INFO: 【DOUBAN】用户 166011562 解析完成，共获取到 0 个媒体
+2022-05-18 15:27:12,549	INFO: 【DOUBAN】所有用户解析完成，共获取到 0 个媒体
+2022-05-18 15:29:09,615	INFO: 【PT】开始转移文件...
+2022-05-18 15:29:09,639	ERROR: 【RUN】执行任务pt_transfer出错：Failed to connect to qBittorrent. Connection Error: ConnectionError(MaxRetryError("HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /api/v2/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcf792fcca0>: Failed to establish a new connection: [Errno 111] Connection refused'))"))
+2022-05-18 15:36:29,316	INFO: 【SYNC】读取到监控目录：/mnt/resiliosync/大片抢先看
+2022-05-18 15:36:29,317	ERROR: 【SYNC】/mnt/resiliosync/大片抢先看 目录不存在！
+2022-05-18 15:36:29,317	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby
+2022-05-18 15:36:29,317	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 15:36:29,317	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby，未识别目录：/mnt/unknown
+2022-05-18 15:36:29,318	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 15:36:29,318	INFO: 【SYNC】读取到监控目录：/mnt/pt_music，目的目录：mnt/emby_music
+2022-05-18 15:36:29,318	INFO: 【SYNC】/mnt/pt_music 不进行识别和重命名
+2022-05-18 15:36:29,318	ERROR: 【SYNC】/mnt/pt_music 目录不存在！
+2022-05-18 15:36:29,318	INFO: 【SYNC】读取到监控目录：/media/pt_baocun/downloaded
+2022-05-18 15:36:29,414	INFO: 【RUN】/media/pt_baocun/downloaded 的monitor.media_sync启动...
+2022-05-18 15:36:33,558	INFO: 【SYNC】读取到监控目录：/mnt/resiliosync/大片抢先看
+2022-05-18 15:36:33,559	ERROR: 【SYNC】/mnt/resiliosync/大片抢先看 目录不存在！
+2022-05-18 15:36:33,559	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby
+2022-05-18 15:36:33,559	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 15:36:33,559	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby，未识别目录：/mnt/unknown
+2022-05-18 15:36:33,559	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 15:36:33,559	INFO: 【SYNC】读取到监控目录：/media/pt_baocun/downloaded
+2022-05-18 15:36:33,665	INFO: 【RUN】/media/pt_baocun/downloaded 的monitor.media_sync启动...
+2022-05-18 15:36:37,668	INFO: 【SYNC】读取到监控目录：/mnt/resiliosync/大片抢先看
+2022-05-18 15:36:37,668	ERROR: 【SYNC】/mnt/resiliosync/大片抢先看 目录不存在！
+2022-05-18 15:36:37,669	INFO: 【SYNC】读取到监控目录：/mnt/pt，目的目录：/mnt/emby
+2022-05-18 15:36:37,669	ERROR: 【SYNC】/mnt/pt 目录不存在！
+2022-05-18 15:36:37,669	INFO: 【SYNC】读取到监控目录：/media/pt_baocun/downloaded
+2022-05-18 15:36:37,784	INFO: 【RUN】/media/pt_baocun/downloaded 的monitor.media_sync启动...
+2022-05-18 15:36:38,264	INFO: 【SYNC】读取到监控目录：/mnt/resiliosync/大片抢先看
+2022-05-18 15:36:38,264	ERROR: 【SYNC】/mnt/resiliosync/大片抢先看 目录不存在！
+2022-05-18 15:36:38,264	INFO: 【SYNC】读取到监控目录：/media/pt_baocun/downloaded
+2022-05-18 15:36:38,354	INFO: 【RUN】/media/pt_baocun/downloaded 的monitor.media_sync启动...
+2022-05-18 15:37:54,758	INFO: 【PT】开始转移文件...
+2022-05-18 15:37:54,784	ERROR: 【RUN】执行任务pt_transfer出错：Failed to connect to qBittorrent. Connection Error: ConnectionError(MaxRetryError("HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries exceeded with url: /api/v2/auth/login (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcf7920cb80>: Failed to establish a new connection: [Errno 111] Connection refused'))"))
+2022-05-18 15:38:58,444	INFO: 【SYNC】读取到监控目录：/media/pt_baocun/downloaded
+2022-05-18 15:38:58,531	INFO: 【RUN】/media/pt_baocun/downloaded 的monitor.media_sync启动...
+2022-05-18 15:44:00,343	INFO: 【PT】开始转移文件...
+2022-05-18 15:44:00,356	INFO: 【PT】文件转移结束
+2022-05-18 15:51:26,799	INFO: 【RMT】开始处理：/media/pt_baocun/downloaded/A.Dirty.Carnival.2006.Blu-ray.1080p.AVC.DTS-HD.MA.5.1-DIY@PTHome
+2022-05-18 15:51:26,800	INFO: 【RMT】当前为蓝光原盘文件夹：/media/pt_baocun/downloaded/A.Dirty.Carnival.2006.Blu-ray.1080p.AVC.DTS-HD.MA.5.1-DIY@PTHome
+2022-05-18 15:51:26,821	INFO: 【META】正在识别电影：A Dirty Carnival, 年份=2006 ...
+2022-05-18 15:51:29,370	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:29,371	INFO: 【RMT】/media/pt_baocun/downloaded/A.Dirty.Carnival.2006.Blu-ray.1080p.AVC.DTS-HD.MA.5.1-DIY@PTHome 处理完成，总数：1，失败：0
+2022-05-18 15:51:29,371	INFO: 【RMT】开始处理：/media/pt_baocun/downloaded/Forbidden Planet 1956 1080p Bluray VC-1 DTS-HD MA 5.1-BaggerInc
+2022-05-18 15:51:29,372	INFO: 【RMT】当前为蓝光原盘文件夹：/media/pt_baocun/downloaded/Forbidden Planet 1956 1080p Bluray VC-1 DTS-HD MA 5.1-BaggerInc
+2022-05-18 15:51:29,373	INFO: 【META】正在识别电影：Forbidden Planet, 年份=1956 ...
+2022-05-18 15:51:31,619	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:31,619	INFO: 【RMT】/media/pt_baocun/downloaded/Forbidden Planet 1956 1080p Bluray VC-1 DTS-HD MA 5.1-BaggerInc 处理完成，总数：1，失败：0
+2022-05-18 15:51:31,620	INFO: 【RMT】开始处理：/media/pt_baocun/downloaded/Its.Always.Sunny.in.Philadelphia.S11.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio
+2022-05-18 15:51:31,625	INFO: 【META】正在识别电视剧：Its Always Sunny in Philadelphia, 年份= ...
+2022-05-18 15:51:33,895	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,896	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,896	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,897	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,898	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,898	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,899	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,899	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,900	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,900	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:33,901	INFO: 【RMT】/media/pt_baocun/downloaded/Its.Always.Sunny.in.Philadelphia.S11.1080p.AMZN.WEBRip.DD2.0.x264-CasStudio 处理完成，总数：10，失败：0
+2022-05-18 15:51:33,901	INFO: 【RMT】开始处理：/media/pt_baocun/downloaded/Star.Wars.The.Clone.Wars.星球大战动画：克隆人战争.S01-S07.1080p.BluRay
+2022-05-18 15:51:33,970	INFO: 【META】正在识别电视剧：Star Wars The Clone Wars, 年份= ...
+2022-05-18 15:51:35,138	INFO: >电视剧ID：4194, 电视剧名称：星球大战：克隆人战争, 上映日期：2008-10-03
+2022-05-18 15:51:36,548	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,549	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,549	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,550	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,551	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,552	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,552	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,553	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,554	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,554	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,555	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,556	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,557	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,558	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,558	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,559	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,560	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,560	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,561	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,562	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,562	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,563	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,564	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,564	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,565	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,566	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,566	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,567	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,568	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,568	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,569	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,570	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,570	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,571	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,572	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,573	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,573	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,574	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,575	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,575	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,576	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,577	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,577	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,578	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,579	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,579	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,580	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,581	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,581	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,582	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,583	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,583	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,584	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,585	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,586	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,586	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,587	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,587	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,588	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,589	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,590	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,590	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,591	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,592	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,592	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,593	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,594	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,594	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,595	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,596	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,597	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,598	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,599	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,599	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,600	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,601	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,602	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,602	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,603	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,604	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,604	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,605	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,606	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,607	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,608	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,608	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,609	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,610	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,611	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,611	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,612	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,613	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,613	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,614	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,615	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,615	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,616	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,617	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,617	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,618	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,619	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,620	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,620	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,621	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,622	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,622	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,623	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,624	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,625	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,625	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,626	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,627	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,628	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,628	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,629	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,630	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,631	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,632	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,633	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,634	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,634	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,635	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,636	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,637	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,638	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,639	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,640	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,641	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,642	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,643	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,644	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,645	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,646	ERROR: 【RMT】发生错误：list index out of range - Traceback (most recent call last):
+  File "/nas-tools/rmt/filetransfer.py", line 452, in transfer_media
+    dist_path = self.__get_best_target_path(mtype=media.type, in_path=in_path, size=media.size)
+  File "/nas-tools/rmt/filetransfer.py", line 835, in __get_best_target_path
+    return dest_paths[0]
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/compat.py", line 217, in __getitem__
+    return self.__getsingleitem__(index)
+  File "/usr/lib/python3.9/site-packages/ruamel/yaml/comments.py", line 527, in __getsingleitem__
+    return list.__getitem__(self, idx)
+IndexError: list index out of range
+
+2022-05-18 15:51:36,646	INFO: 【RMT】/media/pt_baocun/downloaded/Star.Wars.The.Clone.Wars.星球大战动画：克隆人战争.S01-S07.1080p.BluRay 处理完成，总数：133，失败：0
+2022-05-18 15:51:36,648	INFO: 【RMT】开始处理：/media/pt_baocun/downloaded/The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8
+2022-05-18 15:51:36,649	INFO: 【RMT】当前为蓝光原盘文件夹：/media/pt_baocun/downloaded/The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8
+2022-05-18 15:51:36,651	INFO: 【META】正在识别电视剧：The End of the Big Cats, 年份= ...
+2022-05-18 15:51:38,868	WARNING: 【META】The End of the Big Cats 未找到媒体信息!
+2022-05-18 15:51:38,868	INFO: 【META】正在识别电视剧：The End of the Big Cats, 年份= ...
+2022-05-18 15:51:38,869	WARNING: 【META】The End of the Big Cats 未找到媒体信息!
+2022-05-18 15:51:38,869	WARNING: 【RMT】The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8 无法识别媒体信息！
+2022-05-18 15:51:38,872	ERROR: 【RMT】The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8 处理失败！
+2022-05-18 15:51:38,873	INFO: 【RMT】/media/pt_baocun/downloaded/The End of the Big Cats S01 1080p ESP Blu-ray AVC DD 2.0-liber8 处理完成，总数：1，失败：1
+2022-05-18 15:51:38,873	ERROR: 【SYNC】/media/pt_baocun/downloaded 处理失败：无法识别媒体信息
+2022-05-18 15:51:38,873	INFO: 【RMT】开始处理：/media/pt_baocun/downloaded/新村あかり
+2022-05-18 15:51:38,877	INFO: 【META】正在识别电视剧：AGAV, 年份= ...
+2022-05-18 15:51:40,036	WARNING: 【META】AGAV 未找到媒体信息!
+2022-05-18 15:51:40,036	INFO: 【META】正在识别电视剧：AGAV, 年份= ...
+2022-05-18 15:51:40,036	WARNING: 【META】AGAV 未找到媒体信息!
+2022-05-18 15:51:40,038	INFO: 【META】正在识别电影：UMSO 441, 年份= ...
+2022-05-18 15:51:43,812	WARNING: 【META】UMSO 441 未找到媒体信息!
+2022-05-18 15:51:43,813	INFO: 【META】正在识别电影：UMSO 441, 年份= ...
+2022-05-18 15:51:43,813	WARNING: 【META】UMSO 441 未找到媒体信息!
+2022-05-18 15:51:43,814	WARNING: 【RMT】AGAV-042 - 岬あずさ 新村あかり - 2人 [痴女姉妹~セフレのシェアは当たり前!チ●ポ大好き絶倫姉妹の言葉責め巧なハーレム痴女プレイ!~].mp4 无法识别媒体信息！
+2022-05-18 15:51:43,816	ERROR: 【RMT】AGAV-042 - 岬あずさ 新村あかり - 2人 [痴女姉妹~セフレのシェアは当たり前!チ●ポ大好き絶倫姉妹の言葉責め巧なハーレム痴女プレイ!~].mp4 处理失败！
+2022-05-18 15:51:43,816	WARNING: 【RMT】UMSO-441 - 新村あかり 春風ひかる 姫咲はな 稲場るか 夏希ゆめ - 5人以上 [むっちむっち爆乳爆尻お姉さんBEST10人].mp4 无法识别媒体信息！
+2022-05-18 15:51:43,818	ERROR: 【RMT】UMSO-441 - 新村あかり 春風ひかる 姫咲はな 稲場るか 夏希ゆめ - 5人以上 [むっちむっち爆乳爆尻お姉さんBEST10人].mp4 处理失败！
+2022-05-18 15:51:43,818	INFO: 【RMT】/media/pt_baocun/downloaded/新村あかり 处理完成，总数：2，失败：2
+2022-05-18 15:51:43,819	ERROR: 【SYNC】/media/pt_baocun/downloaded 处理失败：无法识别媒体信息

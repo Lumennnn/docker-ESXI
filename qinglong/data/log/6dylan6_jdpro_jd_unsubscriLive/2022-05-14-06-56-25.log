@@ -1,0 +1,69 @@
+## 开始执行... 2022-05-14 06:56:25
+
+
+🔔取关所有主播, 开始!
+
+====================共2个京东账号Cookie=================
+
+============脚本执行时间：2022/5/14 06:56:25=============
+
+>>>>>>>>>>>>>>6Dylan6 提示：任务正常运行中>>>>>>>>>>>>>>>
+
+
+****开始【京东账号1】Wang_Happy_*****
+
+本轮取消主播数：1个
+
+取关主播【马石油京东自营旗舰店】成功
+
+取关一轮完成，等待3-6秒
+本轮取消主播数：1个
+
+取关主播【马石油京东自营旗舰店】成功
+
+取关一轮完成，等待3-6秒
+本轮取消主播数：1个
+
+取关主播【马石油京东自营旗舰店】失败：<html>
+<head><title>401 Authorization Required</title></head>
+<body bgcolor="white">
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+取关一轮完成，等待3-6秒
+本轮取消主播数：1个
+
+取关主播【马石油京东自营旗舰店】成功
+
+取关一轮完成，等待3-6秒
+本轮取消主播数：1个
+
+取关主播【马石油京东自营旗舰店】失败：<html>
+<head><title>401 Authorization Required</title></head>
+<body bgcolor="white">
+<center><h1>401 Authorization Required</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+取关一轮完成，等待3-6秒
+本轮取消主播数：0个
+
+
+****开始【京东账号2】jd_72476e50d1b0e*****
+
+
+❗️取关所有主播, 错误!
+TypeError: Cannot read properties of null (reading 'iRet')
+    at /ql/data/scripts/6dylan6_jdpro/jd_unsubscriLive.js:176:26
+    at /ql/data/scripts/6dylan6_jdpro/jd_unsubscriLive.js:252:5832
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+🔔取关所有主播, 结束! 🕛 35.119 秒
+
+
+## 执行结束... 2022-05-14 06:57:00 耗时 35 秒

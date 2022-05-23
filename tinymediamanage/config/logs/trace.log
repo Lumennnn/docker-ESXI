@@ -1,0 +1,216 @@
+2022-05-23 20:16:21,635 INFO  [main] org.tinymediamanager.TinyMediaManager:135 - =====================================================
+2022-05-23 20:16:21,679 INFO  [main] org.tinymediamanager.TinyMediaManager:136 - === tinyMediaManager (c) 2012-2020 Manuel Laggner ===
+2022-05-23 20:16:21,681 INFO  [main] org.tinymediamanager.TinyMediaManager:137 - =====================================================
+2022-05-23 20:16:21,717 INFO  [main] org.tinymediamanager.TinyMediaManager:138 - tmm.version      : 3.1.16.1
+2022-05-23 20:16:21,725 INFO  [main] org.tinymediamanager.TinyMediaManager:139 - os.name          : Linux
+2022-05-23 20:16:21,726 INFO  [main] org.tinymediamanager.TinyMediaManager:140 - os.version       : 5.4.0-110-generic
+2022-05-23 20:16:21,728 INFO  [main] org.tinymediamanager.TinyMediaManager:141 - os.arch          : amd64
+2022-05-23 20:16:21,729 INFO  [main] org.tinymediamanager.TinyMediaManager:142 - java.version     : 1.8.0_312
+2022-05-23 20:16:21,735 INFO  [main] org.tinymediamanager.TinyMediaManager:143 - java.maxMem      : 512 MiB
+2022-05-23 20:16:22,281 DEBUG [main] o.tinymediamanager.core.AbstractSettings:226 - Loading settings (tmm.json) from data
+2022-05-23 20:16:23,403 INFO  [main] org.tinymediamanager.TinyMediaManager:597 - current encoding : UTF-8 | UTF8 | UTF-8
+2022-05-23 20:16:23,404 INFO  [main] org.tinymediamanager.TinyMediaManager:156 - System language  : en_US
+2022-05-23 20:16:23,405 INFO  [main] org.tinymediamanager.TinyMediaManager:157 - GUI language     : zh_HANT
+2022-05-23 20:16:23,433 DEBUG [main] o.tinymediamanager.core.AbstractSettings:226 - Loading settings (movies.json) from data
+2022-05-23 20:16:23,648 INFO  [main] org.tinymediamanager.TinyMediaManager:158 - Scraper language : 大陆简体
+2022-05-23 20:16:23,661 DEBUG [main] o.tinymediamanager.core.AbstractSettings:226 - Loading settings (tvShows.json) from data
+2022-05-23 20:16:23,825 INFO  [main] org.tinymediamanager.TinyMediaManager:159 - TV Scraper lang  : 中文
+2022-05-23 20:16:24,856 DEBUG [main] org.tinymediamanager.core.Utils:1204 - deleting old backup file data.2022-05-14.zip
+2022-05-23 20:16:24,875 INFO  [main] org.tinymediamanager.TinyMediaManager:187 - =====================================================
+2022-05-23 20:16:24,907 DEBUG [main] org.tinymediamanager.TinyMediaManager:411 - Startup (0%) starting tinyMediaManager
+2022-05-23 20:16:24,921 INFO  [main] org.tinymediamanager.TinyMediaManager:215 - starting tinyMediaManager
+2022-05-23 20:16:24,927 DEBUG [main] org.tinymediamanager.TinyMediaManager:411 - Startup (20%) loading MediaInfo libs
+2022-05-23 20:16:24,965 DEBUG [main] o.t.thirdparty.MediaInfoUtils:99 - Loading native libs from: native/linux-x64
+2022-05-23 20:16:25,174 INFO  [main] o.t.thirdparty.MediaInfoUtils:105 - Using MediaInfoLib - v20.03
+2022-05-23 20:16:25,180 DEBUG [main] org.tinymediamanager.TinyMediaManager:411 - Startup (30%) loading movie module
+2022-05-23 20:16:27,278 INFO  [main] o.tinymediamanager.core.movie.MovieList:368 - found 19 movies in database
+2022-05-23 20:16:27,286 INFO  [main] o.tinymediamanager.core.movie.MovieList:389 - found 3 movieSets in database
+2022-05-23 20:16:27,306 DEBUG [main] org.tinymediamanager.TinyMediaManager:411 - Startup (40%) loading TV show module
+2022-05-23 20:16:27,531 INFO  [main] o.t.core.tvshow.TvShowList:360 - found 4 TV shows in database
+2022-05-23 20:16:27,841 INFO  [main] o.t.core.tvshow.TvShowList:417 - found 66 episodes in database
+2022-05-23 20:16:27,849 DEBUG [main] org.tinymediamanager.TinyMediaManager:411 - Startup (50%) loading plugins
+2022-05-23 20:16:27,887 INFO  [main] o.t.scraper.config.MediaProviderConfig:77 - load settings 'data/scraper_tmdb.conf'
+2022-05-23 20:16:27,927 TRACE [main] o.t.scraper.config.MediaProviderConfig:? - Cannot load settings 'data/scraper_imdb.conf' - using defaults
+2022-05-23 20:16:27,940 TRACE [main] o.t.scraper.config.MediaProviderConfig:? - Cannot load settings 'data/scraper_moviemeter.conf' - using defaults
+2022-05-23 20:16:27,946 TRACE [main] o.t.scraper.config.MediaProviderConfig:? - Cannot load settings 'data/scraper_omdbapi.conf' - using defaults
+2022-05-23 20:16:28,728 TRACE [main] o.t.scraper.config.MediaProviderConfig:? - Cannot load settings 'data/scraper_mpdbtv.conf' - using defaults
+2022-05-23 20:16:28,748 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:326 - searching for Kodi commons
+2022-05-23 20:16:28,752 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:360 - Meh - could not find any common folders...
+2022-05-23 20:16:28,753 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:415 - Meh - could not find any common function...
+2022-05-23 20:16:28,754 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:256 - searching for Kodi scrapers
+2022-05-23 20:16:28,757 DEBUG [main] o.tinymediamanager.scraper.kodi.KodiUtil:286 - Meh - could not find any scrapers...
+2022-05-23 20:16:28,762 TRACE [main] o.t.scraper.config.MediaProviderConfig:? - Cannot load settings 'data/scraper_trakt.conf' - using defaults
+2022-05-23 20:16:28,765 TRACE [main] o.t.scraper.config.MediaProviderConfig:? - Cannot load settings 'data/scraper_universal_movie.conf' - using defaults
+2022-05-23 20:16:28,772 INFO  [main] o.t.scraper.config.MediaProviderConfig:77 - load settings 'data/scraper_tvdb.conf'
+2022-05-23 20:16:28,780 TRACE [main] o.t.scraper.config.MediaProviderConfig:? - Cannot load settings 'data/scraper_anidb.conf' - using defaults
+2022-05-23 20:16:28,783 TRACE [main] o.t.scraper.config.MediaProviderConfig:? - Cannot load settings 'data/scraper_fanarttv.conf' - using defaults
+2022-05-23 20:16:28,801 TRACE [main] o.t.scraper.config.MediaProviderConfig:? - Cannot load settings 'data/scraper_opensubtitles.conf' - using defaults
+2022-05-23 20:16:28,804 DEBUG [main] org.tinymediamanager.TinyMediaManager:411 - Startup (60%) starting services
+2022-05-23 20:16:29,148 DEBUG [main] org.tinymediamanager.TinyMediaManager:411 - Startup (80%) loading ui
+2022-05-23 20:16:34,973 TRACE [SwingWorker-pool-4-thread-2] org.tinymediamanager.core.ImageCache:? - found cached file :) /media/movies/宝贝老板2 (2021)/fanart.jpg
+2022-05-23 20:16:34,974 TRACE [SwingWorker-pool-4-thread-1] org.tinymediamanager.core.ImageCache:? - found cached file :) /media/movies/宝贝老板2 (2021)/poster.jpg
+2022-05-23 20:16:35,134 TRACE [main] org.tinymediamanager.core.ImageCache:? - found cached url :) http://image.tmdb.org/t/p/original/670x9sf0Ru8y6ezBggmYudx61yB.jpg
+2022-05-23 20:16:35,135 TRACE [main] org.tinymediamanager.core.ImageCache:? - found cached url :) http://image.tmdb.org/t/p/original/rhLspFB1B8ZCkWEHFYmc3NKagzq.jpg
+2022-05-23 20:16:35,136 TRACE [main] org.tinymediamanager.core.ImageCache:? - found cached url :) http://image.tmdb.org/t/p/original/670x9sf0Ru8y6ezBggmYudx61yB.jpg
+2022-05-23 20:16:35,137 TRACE [main] org.tinymediamanager.core.ImageCache:? - found cached url :) http://image.tmdb.org/t/p/original/rhLspFB1B8ZCkWEHFYmc3NKagzq.jpg
+2022-05-23 20:16:35,167 TRACE [main] org.tinymediamanager.core.ImageCache:? - found cached url :) http://image.tmdb.org/t/p/original/670x9sf0Ru8y6ezBggmYudx61yB.jpg
+2022-05-23 20:16:35,167 TRACE [main] org.tinymediamanager.core.ImageCache:? - found cached url :) http://image.tmdb.org/t/p/original/rhLspFB1B8ZCkWEHFYmc3NKagzq.jpg
+2022-05-23 20:16:37,384 DEBUG [main] org.tinymediamanager.TinyMediaManager:411 - Startup (100%) finished starting :)
+2022-05-23 20:16:39,209 TRACE [SwingWorker-pool-4-thread-5] org.tinymediamanager.scraper.http.Url:? - add HTTP header: User-Agent=Mozilla/5.0 (X11; Linux 5.4.0-110-generic; U; amd64; zh-TW; rv:71.0) Gecko/20100101 Firefox/71.0
+2022-05-23 20:16:39,215 DEBUG [SwingWorker-pool-4-thread-5] org.tinymediamanager.scraper.http.Url:288 - getting http://image.tmdb.org/t/p/h632/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg
+2022-05-23 20:16:39,249 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - --> GET http://image.tmdb.org/t/p/h632/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg
+2022-05-23 20:16:39,250 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - --> END GET
+2022-05-23 20:16:39,341 TRACE [SwingWorker-pool-4-thread-7] org.tinymediamanager.core.ImageCache:? - found cached file :) /media/tvs/Love, Death & Robots (2019)/folder.jpg
+2022-05-23 20:16:39,345 TRACE [SwingWorker-pool-4-thread-8] org.tinymediamanager.core.ImageCache:? - found cached file :) /media/tvs/Love, Death & Robots (2019)/fanart.jpg
+2022-05-23 20:16:39,357 TRACE [SwingWorker-pool-4-thread-9] org.tinymediamanager.core.ImageCache:? - found cached file :) /media/tvs/Love, Death & Robots (2019)/banner.jpg
+2022-05-23 20:16:40,022 DEBUG [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:135 - <-- 200 OK http://image.tmdb.org/t/p/h632/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg (764ms, 35144-byte body)
+2022-05-23 20:16:40,029 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Content-Type : image/jpeg
+2022-05-23 20:16:40,029 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Content-Length : 35144
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Connection : keep-alive
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Date : Fri, 20 May 2022 09:51:55 GMT
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Server : openresty
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Last-Modified : Sat, 10 Jul 2021 17:28:42 GMT
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Cache-Control : max-age=31449600
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - ETag : "48d1a4956dff1bb7c8ed6aac95c25fc8"
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Expires : Fri, 19 May 2023 09:51:55 GMT
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - X-Rack-Cache : fresh
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - X-Content-Digest : 132684152b90ed851b361a3f294695374b526f1d
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Accept-Ranges : bytes
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Vary : Accept-Encoding
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Vary : Origin
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - X-Cache : Hit from cloudfront
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Via : 1.1 5ef2a900d38e51af436412dffc086198.cloudfront.net (CloudFront)
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - X-Amz-Cf-Pop : LAX50-C3
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - X-Amz-Cf-Id : EglmbCFeo4RIZQS3sdrVzqdTcXvo64XWldrW0wyhJ3p2SXGrDGp4Mw==
+2022-05-23 20:16:40,030 TRACE [SwingWorker-pool-4-thread-5] o.t.s.http.TmmHttpLoggingInterceptor:? - Age : 239080
+2022-05-23 20:16:42,381 INFO  [updateThread] o.t.core.tasks.UpdaterTask:68 - Checking for updates...
+2022-05-23 20:16:42,383 TRACE [updateThread] o.t.core.tasks.UpdaterTask:? - Checking https://release.tinymediamanager.org/v3/build/
+2022-05-23 20:16:42,385 TRACE [updateThread] org.tinymediamanager.scraper.http.Url:? - add HTTP header: User-Agent=Mozilla/5.0 (X11; Linux 5.4.0-110-generic; U; amd64; zh-TW; rv:71.0) Gecko/20100101 Firefox/71.0
+2022-05-23 20:16:42,385 DEBUG [updateThread] org.tinymediamanager.scraper.http.Url:288 - getting https://release.tinymediamanager.org/v3/build/digest.txt
+2022-05-23 20:16:42,386 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - --> GET https://release.tinymediamanager.org/v3/build/digest.txt
+2022-05-23 20:16:42,386 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - User-Agent : Mozilla/5.0 (X11; Linux 5.4.0-110-generic; U; amd64; zh-TW; rv:71.0) Gecko/20100101 Firefox/71.0
+2022-05-23 20:16:42,386 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - --> END GET
+2022-05-23 20:16:43,810 DEBUG [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:135 - <-- 200 https://release.tinymediamanager.org/v3/build/digest.txt (1423ms, 6127-byte body)
+2022-05-23 20:16:43,811 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - cache-control : max-age=600
+2022-05-23 20:16:43,811 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - content-type : text/plain; charset=utf-8
+2022-05-23 20:16:43,811 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - etag : "f68430051904d66b7647c98451cdd68e9adbd6b0fb0dbc6fdb0ab7f6a0db42ff"
+2022-05-23 20:16:43,811 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - expires : Mon, 23 May 2022 04:26:40 UTC
+2022-05-23 20:16:43,811 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - last-modified : Fri, 03 Sep 2021 13:18:02 GMT
+2022-05-23 20:16:43,811 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - permissions-policy : interest-cohort=()
+2022-05-23 20:16:43,811 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - vary : Origin
+2022-05-23 20:16:43,811 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - content-length : 6127
+2022-05-23 20:16:43,811 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - date : Mon, 23 May 2022 04:16:40 GMT
+2022-05-23 20:16:43,840 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - 
+2022-05-23 20:16:43,840 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - getdown.txt = a3a73fda9c2817e51e01a01f93e3e2fb
+tmm.jar = 9f56c03e48d8f3f07f52f7e006e2a128
+lib/FastInfoset.jar = 322dff00a793986b9c0d6bf2a88dd24e
+lib/aXMLRPC.jar = a454457f4446dce03434bf237791e9d2
+lib/activation.jar = a0ff1a7e260e329bc070a2f90a56943f
+lib/animated-gif-lib.jar = fb9ea02cd4977f48ccd92f236072de8e
+lib/asm.jar = 6abdecd50d530fc6742e6fa896dcce93
+lib/betterbeansbinding-core.jar = b5b7437dd02d47cf2e846e09037b1e5c
+lib/betterbeansbinding-el.jar = 0ce18b6460d9772bf6407805f348b7fc
+lib/betterbeansbinding-swingbinding.jar = 3f0885510637087819788f776525d7d6
+lib/cling-core.jar = e61b23307aced6edeeb4d32da8439d3f
+lib/cling-support.jar = adc7c211754dc5a22ce5adb6f848b256
+lib/common-image.jar = 8461c4138d18aedf36db13a3d3f9c362
+lib/common-io.jar = 71dc3e63d43a06631ebfeb62828764b2
+lib/common-lang.jar = 7d79b28553b80fc8852fab758629462a
+lib/commons-codec.jar = 32f5115e71be52f36e7ef2b3a05adc51
+lib/commons-compiler.jar = f0d50700714dced374a5af72565925a4
+lib/commons-io.jar = 09c0f9d40bf1b57517bc9c90d3c4149e
+lib/commons-lang3.jar = 455f2e5e3a3b1fb212262b60d53bc15e
+lib/commons-text.jar = b7e364f41f73f67c2bc56ad87f451823
+lib/converter-gson.jar = f1f7a7cd9e749aceaefa39bc340b076f
+lib/glazedlists.jar = 10d7c50f6d13de1aea0be2058bfa1f15
+lib/gson.jar = 7842006b931f4ff15b47ca74b1ef4d2e
+lib/h2-mvstore.jar = 5bd6331d11a7f76f96707c09f364747e
+lib/imageio-core.jar = ac620a87a3fc24e84238a6ebdc5c759c
+lib/imageio-jpeg.jar = ed5cee3fe841d69422abbed0f4c7090a
+lib/imageio-metadata.jar = 3b728036069ef364516ded6ea84c4e13
+lib/imgscalr-lib.jar = 332e66e594e9e2a307da350f6c3527cb
+lib/isoparser.jar = 2777ac7290007a62f0dfd3ac03b592d3
+lib/istack-commons-runtime.jar = 764056b3e9760b20ed020741658c95f9
+lib/jISO8601.jar = e97e8d595ac86fa89a33245b86c20e0b
+lib/jackson-annotations.jar = b6dba7d4a320cd5b8df6537f11eecb55
+lib/jackson-core-asl.jar = 3e27fb301286ac2d4faad90984001057
+lib/jackson-core.jar = 2742e2162951d12eee3c9763732838fd
+lib/jackson-databind.jar = 7fddde5e659e14918a51213158023844
+lib/jackson-mapper-asl.jar = 1dea67371043bfff398dbe83420bec42
+lib/janino.jar = 7ea8e5a5cc18bb56ac941086da6efd6a
+lib/jaxb-api.jar = 7b5c00a6bd80e9d5c80c7e5957f87cfb
+lib/jaxb-core.jar = 062c46c0677d5bb517f74081d15eebf2
+lib/jaxb-impl.jar = 8c898842f502d5d7a54d4fa3603282ed
+lib/jcl-over-slf4j.jar = e2fcdebde3435d418785f9fa66cc997f
+lib/jmte.jar = e0b69d51f7ee8a0ab22165236c1872fe
+lib/jna-platform.jar = 09d0791a1c34e6a5517cf985dca7dd5b
+lib/jna.jar = 0d657ff4fcecbc26fe8eb3515e790833
+lib/joda-time.jar = d82d989864a8a40f5a6cff25509d84c8
+lib/jsoup.jar = ad0787f7f14d4f2ff842c9b9cdd0cb20
+lib/jsr173_api.jar = bddc2443834a31bcb632ab9163fa0a76
+lib/jsr305.jar = 17c40475143da9a61ae0d2830339df6f
+lib/jtidy.jar = 529a0682eaef2fedbd833fde727d3ea1
+lib/kodi-json-rpc.jar = 9e47eedd73b845ec83d6adcbe5fb5702
+lib/logback-classic.jar = 4ad894d00aba9df949f9d3cae83e6eea
+lib/logback-core.jar = 3e653d779b35409aaf5c0c414987333a
+lib/logging-interceptor.jar = 94624c0f0282a53cee3924618818f880
+lib/loop-fs-api.jar = c9757e56deca33f7af154f1424e4b585
+lib/loop-fs-iso-impl.jar = a8bcf2a2caffd3397e35fa72407f66b1
+lib/loop-fs-spi.jar = 12ade8ff61ac0702dc3dc780a730d824
+lib/loop-fs-udf-impl.jar = f3276cf6ff9b0ded86d95cec1266abf7
+lib/lwjgl-nfd.jar = 13b4ca7523fb31d021807a39931670e7
+lib/lwjgl.jar = e49fc65d945aa48792bdbbad1eceaa64
+lib/miglayout-core.jar = 0e453e1777410d38a688eb22bd4d114f
+lib/miglayout-swing.jar = 9c49e29fc47867640246506708a1e920
+lib/muxer.jar = 70adc815693a5d3f1a894390d4375ac8
+lib/nanohttpd.jar = 6516a9925e2606368d012db47a9983b7
+lib/okhttp-urlconnection.jar = f220ac42ca69f44b7705655e1ddf0031
+lib/okhttp.jar = 4dcdfa826bbef4826d0bba7a2140754e
+lib/okio.jar = 5776614a866389b9c01359bc53f40943
+lib/retrofit.jar = c7b74d5c5082cf14c113687e85b5f3c6
+lib/seamless-http.jar = 297f613f8d014cf21593ef390fd9489a
+lib/seamless-swing.jar = d9b94591822c1cb8ae2792e7bea89364
+lib/seamless-util.jar = 264936d2683094df11b8f9a298683463
+lib/seamless-xml.jar = 232c2457668e7b331c1c6125c785fa01
+lib/slf4j-api.jar = d09543015aa3cc8b8285566488bca47c
+lib/thetvdb-java.jar = df548f659e2d8417f324273875121538
+lib/threetenbp.jar = dd0195a068ccd5551985788e6c7289c8
+lib/tmdb-java.jar = 0d5189010f7d08731dac111d24d39a5a
+lib/trakt-java.jar = 29d11d96cc223446607c493473e4ada3
+lib/yt.jar = a6e3eb2420ef91ecf80658dea184a43b
+progress.jpg = dcf32c23c758a6c602627808a8cff1e9
+tinyMediaManager.new = 75fa8fba6efc9480bd82cf8c6bed694a
+tinyMediaManagerUpd.new = dbda8633f1005d9640fad71d0695507a
+tinyMediaManagerCMD.new = ee71d476e8671ddce5ee5282118d835a
+JavaApplicationStub.new = d6d40dbfa7cf40aad623801061f9d485
+Info.plist = ff637cace69f47824922adede2196a25
+tmm.icns = 2d182e53e989d8dbba04955275f1e8c3
+getdown-new.jar = d8dea72e76bd6e3e8e217971ed0ab282
+version = cd584a45ce495be0833458a92cbcf9c2
+splashscreen.png = 81247c1aa86350253e954c7dde9e4dd7
+tmm.png = 75c2c8eecf4553f9fde8ce9687248160
+changelog.txt = 60c8024af01cf898761316847e7722c0
+native/mac/libmediainfo.dylib = f72971243620147f53e1e5fdd5b6f7b4
+native/windows-x64/MediaInfo.dll = 5871b73680799e276ece01f092ee6317
+native/windows-x64/MediaInfo.dll = 5871b73680799e276ece01f092ee6317
+native/windows-x86/MediaInfo.dll = 737dd5867080e3f7dbe4d2108c45ed17
+native/windows-x86/mingwm10.dll = f54e240fe3cc87b24a50380d90fcd496
+native/windows-x86/lwjgl.dll = 6f42947e0bc5e5e24c3c0d2038899e1f
+native/windows-x86/lwjgl_nfd.dll = c5e4ab05cecedd1361d5445ac3816f39
+native/windows-x64/lwjgl.dll = 868590743c89949560d3f628749dfbef
+native/windows-x64/lwjgl_nfd.dll = 721c70c23f6abe99d4dad6763bb50a67
+native/linux-x86/liblwjgl.so = 55c3f283afb24a857389f767f2997fea
+native/linux-x86/liblwjgl_nfd.so = 343a2a04eb9648888f6849afd3932a99
+native/linux-x64/liblwjgl.so = 55c3f283afb24a857389f767f2997fea
+native/linux-x64/liblwjgl_nfd.so = 343a2a04eb9648888f6849afd3932a99
+templates/templates.jar = 9d969d6bd52ecea9856b7f92f4586d8b
+tinyMediaManagerCMD.sh = a2b21d01f76cfa5cad8d17010d23eec7
+tinyMediaManager.sh = f8042e431c635c071cd8404f99ef0ae5
+tinyMediaManagerUpdater.sh = dd6c695911e5c8689f2438e1e125a051
+tinyMediaManagerOSX.sh = d699f4c8953d7f21fb32f96805fa1052
+tinyMediaManagerCMD-OSX.sh = 7b5ca86f2ff10c4d11afd51afb52fdab
+digest.txt = 238e2d97c204a727d5fc6cad4507fba9
+
+2022-05-23 20:16:43,841 TRACE [updateThread] o.t.s.http.TmmHttpLoggingInterceptor:? - <-- END HTTP (6127-byte body)
+2022-05-23 20:16:43,843 INFO  [updateThread] o.t.core.tasks.UpdaterTask:132 - Already up2date :)
+2022-05-23 20:16:43,878 DEBUG [main] org.tinymediamanager.ui.MainWindow:138 - update result was: false

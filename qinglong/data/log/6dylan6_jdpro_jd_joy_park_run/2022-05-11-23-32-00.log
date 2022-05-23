@@ -1,0 +1,24 @@
+## 开始执行... 2022-05-11 23:32:00
+
+Error: Cannot find module 'axios'
+Require stack:
+- /ql/data/scripts/6dylan6_jdpro/TS_USER_AGENTS.ts
+- /ql/data/scripts/6dylan6_jdpro/jd_joy_park_run.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue [as _resolveFilename] (/usr/local/pnpm-global/5/node_modules/.pnpm/@cspotcode+source-map-support@0.7.0/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/ql/data/scripts/6dylan6_jdpro/TS_USER_AGENTS.ts:1:1)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module.m._compile (/usr/local/pnpm-global/5/node_modules/.pnpm/ts-node@10.7.0_typescript@4.6.3/node_modules/ts-node/src/index.ts:1455:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Object.require.extensions.<computed> [as .ts] (/usr/local/pnpm-global/5/node_modules/.pnpm/ts-node@10.7.0_typescript@4.6.3/node_modules/ts-node/src/index.ts:1458:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/ql/data/scripts/6dylan6_jdpro/TS_USER_AGENTS.ts',
+    '/ql/data/scripts/6dylan6_jdpro/jd_joy_park_run.ts'
+  ]
+}
+
+## 执行结束... 2022-05-11 23:32:02 耗时 2 秒

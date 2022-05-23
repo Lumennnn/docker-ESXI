@@ -1,0 +1,20 @@
+---
+version: "2.1"
+services:
+  resilio-sync:
+    image: ghcr.io/linuxserver/resilio-sync
+    container_name: resilio-sync
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Asia/Shanghai
+      - UMASK_SET=022 #optional
+    volumes:
+      - ./config:/config
+      - ./cache/downloads:/downloads
+      - /hdd/resilio-sync:/sync
+    network_mode: "host"
+    # ports:
+    #   - 8888:8888
+    #   - 55555:55555
+    restart: unless-stopped

@@ -1,0 +1,54 @@
+## 开始执行... 2022-05-15 07:05:15
+
+
+🔔京东种豆得豆, 开始!
+开始获取种豆得豆配置文件
+
+
+====================共2个京东账号Cookie=================
+
+============脚本执行时间：2022/5/15 07:05:15=============
+
+>>>>>>>>>>>>>>6Dylan6 提示：任务正常运行中>>>>>>>>>>>>>>>
+
+您的种豆互助码选择的是用&隔开
+
+共2个京东账号
+
+您提供了2个账号的种豆得豆助力码
+
+"getaddrinfo EAI_AGAIN wq.jd.com"
+京东种豆得豆 API请求失败，请检查网路重试
+开始【京东账号1】jd_56ac883b2ee02
+
+第1个京东账号将要助力的好友["4npkonnsy7xi3pjdfnamhrga4kegl3anxtfp7mq"]
+获取任务及基本信息
+"getaddrinfo EAI_AGAIN cdn.jsdelivr.net"
+京东种豆得豆 API请求失败，请检查网路重试
+
+种豆得豆: API查询请求失败 ‼️‼️
+function_id:plantBeanIndex
+
+❗️京东种豆得豆, 错误!
+
+
+❗️京东种豆得豆, 错误!
+TypeError: Cannot read properties of undefined (reading 'errorCode')
+    at jdPlantBean (/ql/data/scripts/6dylan6_jdpro/jd_plantBean.js:85:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /ql/data/scripts/6dylan6_jdpro/jd_plantBean.js:68:7
+开始发送通知...
+通知标题: 京东种豆得豆
+undefined:1
+undefined
+^
+
+SyntaxError: Unexpected token u in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at /ql/data/scripts/6dylan6_jdpro/sendNotify.js:2255:33
+    at /ql/data/scripts/6dylan6_jdpro/sendNotify.js:3033:27
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.0.0
+
+## 执行结束... 2022-05-15 07:05:48 耗时 33 秒

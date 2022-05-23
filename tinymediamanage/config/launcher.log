@@ -1,0 +1,45 @@
+2022/05/23 20:16:11:632 INFO Using appdir from command line: /config
+2022/05/23 20:16:11:661 INFO ------------------ VM Info ------------------
+2022/05/23 20:16:11:661 INFO -- OS Name: Linux
+2022/05/23 20:16:11:661 INFO -- OS Arch: amd64
+2022/05/23 20:16:11:661 INFO -- OS Vers: 5.4.0-110-generic
+2022/05/23 20:16:11:662 INFO -- Java Vers: 1.8.0_312
+2022/05/23 20:16:11:662 INFO -- Java Home: /opt/jre
+2022/05/23 20:16:11:662 INFO -- User Name: root
+2022/05/23 20:16:11:662 INFO -- User Home: /root
+2022/05/23 20:16:11:662 INFO -- Cur dir: /run/s6/services/app
+2022/05/23 20:16:11:662 INFO ---------------------------------------------
+2022/05/23 20:16:11:919 INFO Getdown starting [version=1.8.3-SNAPSHOT, built=2019-02-26 14:29]
+2022/05/23 20:16:11:964 INFO Checking whether we need to use a proxy...
+2022/05/23 20:16:12:921 INFO Downloading 0 resources [totalBytes=0, maxConcurrent=3]
+2022/05/23 20:16:12:956 INFO Testing whether proxy is needed, via: https://release.tinymediamanager.org/v3/build/getdown.txt
+2022/05/23 20:16:12:967 INFO Dropping status 'm.resolving'.
+2022/05/23 20:16:12:968 INFO Dropping status 'm.downloading'.
+2022/05/23 20:16:12:968 INFO Dropping status 'm.detecting_proxy'.
+2022/05/23 20:16:17:145 INFO No proxy appears to be needed.
+2022/05/23 20:16:17:230 INFO Downloading 0 resources [totalBytes=0, maxConcurrent=3]
+2022/05/23 20:16:17:231 INFO Launching without update!
+2022/05/23 20:16:17:231 INFO Dropping status 'm.resolving'.
+2022/05/23 20:16:17:231 INFO Dropping status 'm.downloading'.
+2022/05/23 20:16:17:231 INFO Dropping status 'm.launching'.
+2022/05/23 20:16:17:243 INFO Didn't find any custom environment variables, not setting any.
+2022/05/23 20:16:17:244 INFO Running /opt/jre/bin/java
+  -classpath
+  /config/tmm.jar:/config/lib/FastInfoset.jar:/config/lib/aXMLRPC.jar:/config/lib/activation.jar:/config/lib/animated-gif-lib.jar:/config/lib/asm.jar:/config/lib/betterbeansbinding-core.jar:/config/lib/betterbeansbinding-el.jar:/config/lib/betterbeansbinding-swingbinding.jar:/config/lib/cling-core.jar:/config/lib/cling-support.jar:/config/lib/common-image.jar:/config/lib/common-io.jar:/config/lib/common-lang.jar:/config/lib/commons-codec.jar:/config/lib/commons-compiler.jar:/config/lib/commons-io.jar:/config/lib/commons-lang3.jar:/config/lib/commons-text.jar:/config/lib/converter-gson.jar:/config/lib/glazedlists.jar:/config/lib/gson.jar:/config/lib/h2-mvstore.jar:/config/lib/imageio-core.jar:/config/lib/imageio-jpeg.jar:/config/lib/imageio-metadata.jar:/config/lib/imgscalr-lib.jar:/config/lib/isoparser.jar:/config/lib/istack-commons-runtime.jar:/config/lib/jISO8601.jar:/config/lib/jackson-annotations.jar:/config/lib/jackson-core-asl.jar:/config/lib/jackson-core.jar:/config/lib/jackson-databind.jar:/config/lib/jackson-mapper-asl.jar:/config/lib/janino.jar:/config/lib/jaxb-api.jar:/config/lib/jaxb-core.jar:/config/lib/jaxb-impl.jar:/config/lib/jcl-over-slf4j.jar:/config/lib/jmte.jar:/config/lib/jna-platform.jar:/config/lib/jna.jar:/config/lib/joda-time.jar:/config/lib/jsoup.jar:/config/lib/jsr173_api.jar:/config/lib/jsr305.jar:/config/lib/jtidy.jar:/config/lib/kodi-json-rpc.jar:/config/lib/logback-classic.jar:/config/lib/logback-core.jar:/config/lib/logging-interceptor.jar:/config/lib/loop-fs-api.jar:/config/lib/loop-fs-iso-impl.jar:/config/lib/loop-fs-spi.jar:/config/lib/loop-fs-udf-impl.jar:/config/lib/lwjgl-nfd.jar:/config/lib/lwjgl.jar:/config/lib/miglayout-core.jar:/config/lib/miglayout-swing.jar:/config/lib/muxer.jar:/config/lib/nanohttpd.jar:/config/lib/okhttp-urlconnection.jar:/config/lib/okhttp.jar:/config/lib/okio.jar:/config/lib/retrofit.jar:/config/lib/seamless-http.jar:/config/lib/seamless-swing.jar:/config/lib/seamless-util.jar:/config/lib/seamless-xml.jar:/config/lib/slf4j-api.jar:/config/lib/thetvdb-java.jar:/config/lib/threetenbp.jar:/config/lib/tmdb-java.jar:/config/lib/trakt-java.jar:/config/lib/yt.jar
+  -Dcom.threerings.getdown=true
+  -XX:+IgnoreUnrecognizedVMOptions
+  -XX:+UseG1GC
+  -XX:+UseStringDeduplication
+  -Xms64m
+  -Xmx512m
+  -Xss512k
+  -splash:splashscreen.png
+  -Djava.net.preferIPv4Stack=true
+  -Dfile.encoding=UTF-8
+  -Dsun.jnu.encoding=UTF-8
+  -XX:CompileCommand=exclude,ca/odell/glazedlists/impl/filter/TextMatchers,matches
+  -XX:CompileCommand=exclude,ca/odell/glazedlists/impl/filter/BoyerMooreCaseInsensitiveTextSearchStrategy,indexOf
+  -Djna.nosys=true
+  -Dawt.useSystemAAFontSettings=on
+  -Dswing.aatext=true
+  org.tinymediamanager.TinyMediaManager

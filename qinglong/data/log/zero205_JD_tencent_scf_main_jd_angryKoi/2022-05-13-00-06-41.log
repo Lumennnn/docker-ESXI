@@ -1,0 +1,15 @@
+## 开始执行... 2022-05-13 00:06:41
+
+
+🔔愤怒的锦鲤, 开始!
+
+❌ 愤怒的锦鲤, 失败! 原因: Error: Cannot find module './function/ql'
+Require stack:
+- /ql/data/scripts/zero205_JD_tencent_scf_main/sendNotify.js
+- /ql/data/scripts/zero205_JD_tencent_scf_main/jd_angryKoi.js!
+
+
+🔔愤怒的锦鲤, 结束! 🕛 0.017 秒
+
+
+## 执行结束... 2022-05-13 00:06:41 耗时 0 秒

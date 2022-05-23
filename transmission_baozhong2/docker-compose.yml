@@ -1,0 +1,25 @@
+version: "2.1"
+services:
+  transmission:
+    image: chisbread/transmission
+    container_name: transmission_baozhong2
+    networks:
+      macvlan_ikuai:
+        ipv4_address: 192.168.1.201
+    environment:
+      - USER=lumen
+      - PASS=123456
+      - TZ=Asia/Shanghai
+    volumes:
+      - ./config:/config
+      - /hdd/pt_baozhong:/downloads
+      - /hdd/pt_baozhong/to_download_torr:/watch #network_mode: "host"
+    # ports:
+    #   - 9091:9091
+    #   - 51413:51413
+    #   - 51413:51413/udp
+    restart: unless-stopped
+networks:
+  macvlan_ikuai:
+    external:
+      name: ikuai

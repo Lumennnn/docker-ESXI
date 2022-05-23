@@ -1,0 +1,45 @@
+2022-05-23 20:16:14,119	INFO: WEB管理页面用户：admin
+2022-05-23 20:16:14,136	INFO: 未启用https，请使用 http://IP:3000 访问管理页面
+2022-05-23 20:16:14,137	INFO: TMDB匹配模式：正常模式
+2022-05-23 20:16:14,137	INFO: 媒体管理软件设置为：emby
+2022-05-23 20:16:14,138	WARNING: emby配置不完整，部分功能将无法使用
+2022-05-23 20:16:14,362	INFO: 电影分类：华语电影 外语电影
+2022-05-23 20:16:14,363	INFO: 电视剧分类：动漫 纪录片 儿童 综艺 国产剧 欧美剧 日韩剧 未分类
+2022-05-23 20:16:14,363	INFO: 动漫分类：动漫
+2022-05-23 20:16:14,363	WARNING: 微信Token、EncodingAESKey未配置，微信控制功能将无法使用
+2022-05-23 20:16:14,444	INFO: 目录同步转移模式为：硬链接
+2022-05-23 20:16:14,444	INFO: PT下载软件设置为：transmission
+2022-05-23 20:16:14,444	INFO: PT下载文件转移模式为：硬链接
+2022-05-23 20:16:14,445	INFO: PT检索软件设置为：jackett
+2022-05-23 20:16:14,445	INFO: 微信等移动端渠道搜索已开启自动择优下载
+2022-05-23 20:16:14,447	INFO: PT保种时间未配置，自动删种功能已关闭
+2022-05-23 20:16:14,447	INFO: 下载软件监控未开启，PT下载监控功能已关闭
+2022-05-23 20:16:15,766	INFO: 【RUN】scheduler.pt_signin启动...
+2022-05-23 20:16:15,790	ERROR: 【TR】transmission连接出错：can't connect to transmission daemon: HTTPConnectionPool(host='192.168.1.4', port=9090): Max retries exceeded with url: /transmission/rpc (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f62ed55a910>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2022-05-23 20:16:15,803	INFO: 【RUN】scheduler.rss_download启动...
+2022-05-23 20:16:15,808	INFO: 【RUN】scheduler.douban_sync启动...
+2022-05-23 20:16:15,811	INFO: 【SYNC】读取到监控目录：/media/pt_baocun/downloaded
+2022-05-23 20:16:18,371	INFO: 【RUN】/media/pt_baocun/downloaded 的monitor.media_sync启动...
+2022-05-24 02:16:15,813	INFO: 【DOUBAN】开始同步豆瓣数据...
+2022-05-24 02:16:15,814	INFO: 【DOUBAN】开始获取 166011562 的 do 数据...
+2022-05-24 02:16:15,815	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-24 02:16:16,188	INFO: 【DOUBAN】第 1 页有 0 个媒体
+2022-05-24 02:16:16,188	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-24 02:16:16,188	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-24 02:16:16,188	INFO: 【DOUBAN】用户 166011562 的 do 解析完成，共获取到 0 个媒体
+2022-05-24 02:16:16,188	INFO: 【DOUBAN】开始获取 166011562 的 wish 数据...
+2022-05-24 02:16:16,189	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-24 02:16:16,516	INFO: 【DOUBAN】第 1 页有 7 个媒体
+2022-05-24 02:16:16,516	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-24 02:16:16,516	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-24 02:16:16,517	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-24 02:16:16,517	INFO: 【DOUBAN】用户 166011562 的 wish 解析完成，共获取到 0 个媒体
+2022-05-24 02:16:16,517	INFO: 【DOUBAN】开始获取 166011562 的 collect 数据...
+2022-05-24 02:16:16,517	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-24 02:16:16,889	INFO: 【DOUBAN】第 1 页有 8 个媒体
+2022-05-24 02:16:16,889	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-24 02:16:16,890	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-24 02:16:16,890	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-24 02:16:16,890	INFO: 【DOUBAN】用户 166011562 的 collect 解析完成，共获取到 0 个媒体
+2022-05-24 02:16:16,890	INFO: 【DOUBAN】用户 166011562 解析完成，共获取到 0 个媒体
+2022-05-24 02:16:16,890	INFO: 【DOUBAN】所有用户解析完成，共获取到 0 个媒体

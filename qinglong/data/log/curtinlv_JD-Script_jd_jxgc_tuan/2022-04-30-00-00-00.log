@@ -1,0 +1,22 @@
+## 开始执行... 2022-04-30 00:00:00
+
+
+### 京喜工厂-开团 ###
+已获取并使用Env环境 Cookie
+您已配置2个账号
+提示：你还没设置开团的账号，变量：export jxgc_kaituan="用户1&用户2"
+本次默认给【账号1】jd_72476e50d1b0e开团
+### 最新瓜分活动【瓜分电力4w-3-4月】###
+当前最新activeId【GAy1vgkXvnWFyGhxfH-ZvA==】
+【jd_72476e50d1b0e】开始第1次开团
+{'msg': '登录京东账号才可以继续游戏哦~', 'nowTime': 1651219198, 'ret': 10001}
+QueryActiveConfig Errpr 'data'
+CreateTuan Error cannot unpack non-iterable NoneType object
+Traceback (most recent call last):
+  File "/ql/data/scripts/curtinlv_JD-Script/jd_jxgc_tuan.py", line 496, in <module>
+    start()
+  File "/ql/data/scripts/curtinlv_JD-Script/jd_jxgc_tuan.py", line 462, in start
+    tuanId, surplusOpenTuanNum = CreateTuan(cookiesList[ckNum])
+TypeError: cannot unpack non-iterable NoneType object
+
+## 执行结束... 2022-04-30 00:00:02 耗时 2 秒

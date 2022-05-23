@@ -1,0 +1,21 @@
+# 执行时需要去掉注释
+docker network create \
+    -d macvlan \ # 使用 macvlan 网络驱动
+    --subnet=192.168.1.0/24 \ # 指定网段
+    --gateway=192.168.1.5 \ # 指定网关 IP
+    -o parent=ens192 \ # 指定网卡
+ikuai # 网络名称，随意，自己记得就行
+
+docker network create \
+    -d macvlan \
+    --subnet=192.168.1.0/24 \
+    --gateway=192.168.1.5 \
+    -o parent=ens192 \
+ikuai
+
+
+transmission_baozhong 192.168.1.200:9091
+transmission_baozhong2 192.168.1.201:9091
+transmission_baocun 192.168.1.202:9091
+
+qBittorent 192.168.1.203:8081

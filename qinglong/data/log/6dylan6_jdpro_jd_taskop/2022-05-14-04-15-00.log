@@ -1,0 +1,445 @@
+## 开始执行... 2022-05-14 04:15:00
+
+如果报错请在环境变量中添加你的真实 IP:端口
+名称：IPPORT	值：127.0.0.1:5700
+或在 config.sh 中添加 export IPPORT='127.0.0.1:5700'
+===> 禁用重复任务开始 <===
+加载推送功能中...
+
+=== 你选择过滤的任务前缀为 ===
+6dylan6_jdpro
+
+=== 第一轮初筛开始 ===
+【✅保留】task hongke120_qlym/ksjs6w.js
+
+【✅保留】task hongke120_qlym/kgdzb.js
+【🚫禁用】task hongke120_qlym/xqz.js
+【🚫禁用】task hongke120_qlym/haier.js
+【🚫禁用】task hongke120_qlym/kgyy.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_zdjr.js
+
+【✅保留】task hongke120_qlym/wytk.js
+
+【✅保留】task hongke120_qlym/bhxcy.js
+
+【✅保留】task hongke120_qlym/meituan.js
+
+【✅保留】task hongke120_qlym/kyin.js
+
+【✅保留】task hongke120_qlym/jc_box.js
+
+【✅保留】task hongke120_qlym/jc_wz.js
+
+【✅保留】task hongke120_qlym/jc_Adv_video.js
+
+【✅保留】task hongke120_qlym/jc_Rotary.js
+
+【✅保留】task hongke120_qlym/jc_qd.js
+
+【✅保留】task hongke120_qlym/jckd_risk.js
+
+【✅保留】task hongke120_qlym/jc_today_score.js
+
+【✅保留】task hongke120_qlym/jc_kkz.js
+
+【✅保留】task hongke120_qlym/jc_withdraw.js
+
+【✅保留】task hongke120_qlym/txstockV2.js
+【🚫禁用】task hongke120_qlym/ksfcys.js
+
+【✅保留】task hongke120_qlym/yhxq.js
+
+【✅保留】task hongke120_qlym/klyx.js
+
+【✅保留】task hongke120_qlym/elm.js
+
+【✅保留】task hongke120_qlym/zlsc.js
+
+【✅保留】task hongke120_qlym/djxs.js
+
+【✅保留】task hongke120_qlym/dd_bucketWater.js
+
+【✅保留】task hongke120_qlym/ks.js
+
+【✅保留】task hongke120_qlym/Chinaunicom.js
+
+【✅保留】task hongke120_qlym/ksjsb_503.js
+
+【✅保留】task hongke120_qlym/NFT.js
+
+【✅保留】task hongke120_qlym/txstock.js
+
+【✅保留】task hongke120_qlym/dygy.js
+
+【✅保留】task hongke120_qlym/flg.js
+
+【✅保留】task hongke120_qlym/jcCheck.js
+
+【✅保留】task hongke120_qlym/ks_fruit.js
+
+【✅保留】task hongke120_qlym/jztt.js
+
+【✅保留】task hongke120_qlym/jrttjsb.js
+
+【✅保留】task hongke120_qlym/ysy.js
+
+【✅保留】task hongke120_qlym/wkllq.js
+
+【✅保留】task hongke120_qlym/cfxbj.js
+
+【✅保留】task hongke120_qlym/bsly.js
+
+【✅保留】task hongke120_qlym/dyjs.js
+
+【✅保留】task hongke120_qlym/wx_lmyx.js
+
+【✅保留】task hongke120_qlym/dd_fruit.js
+
+【✅保留】task hongke120_qlym/ksjsb.js
+
+【✅保留】task hongke120_qlym/flhs.js
+
+【✅保留】task hongke120_qlym/dd_cookie.js
+
+【✅保留】task hongke120_qlym/gyj.js
+
+【✅保留】task hongke120_qlym/jctq_kkz.js
+
+【✅保留】task hongke120_qlym/jctq_reward.js
+
+【✅保留】task hongke120_qlym/jctq_daily.js
+
+【✅保留】task hongke120_qlym/jctq_read.js
+
+【✅保留】task hongke120_qlym/kt.js
+
+【✅保留】task raw_YM_jrttjsb.js
+
+【✅保留】ql raw https://gitee.com/jaun920/scripts/raw/master/YM/jrttjsb.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_jdfactory.js
+【🚫禁用】task whyour_hundun/dd_factory.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_cfd_loop.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_cfd_hb.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_nzmh.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_babel_sign.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_ms.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_jin_tie.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_blueCoin.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_jxlhb.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jdCookie.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_sevenDay.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_xmf.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_sddd.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_jxmc.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_qqxing.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_gold_creator.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_jxgckc.js
+【🚫禁用】task whyour_hundun/jx_products_detail.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_cleancart.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_moneyTree.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_joy_park.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_pet.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_ccSign.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_nnfls.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_speed_sign.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_jdzz.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_health.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_get_share_code.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_wish.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_connoisseur.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_joy_park_task.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_wxgame.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_joy_feedPets.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_dreamFactory.js
+【🚫禁用】task whyour_hundun/jx_factory.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_m_sign.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_sgmh.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_car.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_xfxd.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_pigPet.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_cfd_mooncake.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_CheckCK.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jx_sign.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_jmf.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_jdtj_winner.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_computer.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_fan.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_cash.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_sign_graphics.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_try_notify.py
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_beauty.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_signFree.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_dwapp.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_try.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_unsubscribe.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_jfcz.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_kd.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_cfd.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_gold_sign.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_z_health_energy.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_productZ4Brand.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_wsdlb.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_speed_redpocke.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_joyjd_open.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_cfd_pearl_ex.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_ddly.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_health_plant.py
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_live.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_angryKoi.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_zjb.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_tyt.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_bean_sign.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_moneyTree_help.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_bean_home.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_redrain.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_plantBean.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_dpqd.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_fcdyj.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_redrain_half.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_bean_change.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_fruit.js
+
+【✅保留】task zero205_JD_tencent_scf_main/jd_club_lottery.js
+
+【✅保留】ql repo https://hub.fastgit.xyz/zero205/JD_tencent_scf.git "jd_|jx_|jdCookie" "backUp|icon" "^jd[^_]|USER|sendNotify|sign_graphics_validate|JDJR|JDSign|ql" "main"
+
+【✅保留】ql repo https://github.com/hongke120/qlym.git
+
+【✅保留】ql repo https://js.6dygit.workers.dev/https://github.com/6dylan6/jdpro.git "jd_|jx_|jddj_" "backUp" "^jd[^_]|USER|JD|function|sendNotify"
+
+【✅保留】task whyour_hundun/jdzz.js
+
+【✅保留】task whyour_hundun/youth.py
+
+【✅保留】task whyour_hundun/ddxw.js
+
+【✅保留】task whyour_hundun/jx_factory_component.js
+
+【✅保留】task whyour_hundun/xmly_speed.py
+
+【✅保留】task whyour_hundun/youth_read.py
+
+【✅保留】task whyour_hundun/yiyan.py
+
+【✅保留】task whyour_hundun/jd_zjd.js
+
+【✅保留】task whyour_hundun/jd_stock.js
+
+【✅保留】task whyour_hundun/util.py
+
+【✅保留】task whyour_hundun/jd_zjd_tuan.js
+
+【✅保留】task whyour_hundun/daymatter.js
+
+【✅保留】task whyour_hundun/jx_nc.js
+
+【✅保留】task daily_push/english.py
+
+【✅保留】task daily_push/wanan.py
+
+【✅保留】task daily_push/One.py
+
+【✅保留】task daily_push/zaoan.py
+
+=== 第一轮初筛结束 ===
+
+=== 最终筛选开始 ===
+【✅保留】task 6dylan6_jdpro/jd_jdfactory.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_jdfactory.js
+
+【✅保留】task 6dylan6_jdpro/jd_nzmh.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_nzmh.js
+
+【✅保留】task 6dylan6_jdpro/jd_jin_tie.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_jin_tie.js
+
+【✅保留】task 6dylan6_jdpro/jd_gold_creator.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_gold_creator.js
+
+【✅保留】task 6dylan6_jdpro/jd_clean_car.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_cleancart.js
+
+【✅保留】task 6dylan6_jdpro/jd_moneyTree.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_moneyTree.js
+
+【✅保留】task 6dylan6_jdpro/jd_pet.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_pet.js
+
+【✅保留】task 6dylan6_jdpro/jd_jxnn.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_nnfls.js
+
+【✅保留】task 6dylan6_jdpro/jd_speed_sign.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_speed_sign.js
+
+【✅保留】task 6dylan6_jdpro/jd_health.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_health.js
+
+【✅保留】task 6dylan6_jdpro/jd_sharecode.sh
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_get_share_code.js
+
+【✅保留】task 6dylan6_jdpro/jd_wish.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_wish.js
+
+【✅保留】task 6dylan6_jdpro/jd_joypark_task.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_joy_park_task.js
+
+【✅保留】task 6dylan6_jdpro/jd_joy_feedPets.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_joy_feedPets.js
+
+【✅保留】task 6dylan6_jdpro/jd_dreamFactory.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_dreamFactory.js
+
+【✅保留】task 6dylan6_jdpro/jd_sgmh.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_sgmh.js
+
+【✅保留】task 6dylan6_jdpro/jd_pigPet.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_pigPet.js
+
+【✅保留】task 6dylan6_jdpro/jx_sign.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jx_sign.js
+
+【✅保留】task 6dylan6_jdpro/jd_sign_graphics.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_sign_graphics.js
+
+【✅保留】task 6dylan6_jdpro/jd_try_notify.py
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_try_notify.py
+
+【✅保留】task 6dylan6_jdpro/jd_beauty.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_beauty.js
+
+【✅保留】task 6dylan6_jdpro/jd_dwapp.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_dwapp.js
+
+【✅保留】task 6dylan6_jdpro/jd_try.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_try.js
+
+【✅保留】task 6dylan6_jdpro/jd_unsubscribe.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_unsubscribe.js
+
+【✅保留】task 6dylan6_jdpro/jd_kd.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_kd.js
+
+【✅保留】task 6dylan6_jdpro/jd_cfd.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_cfd.js
+
+【✅保留】task 6dylan6_jdpro/jd_speed_signred.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_speed_redpocke.js
+
+【✅保留】task 6dylan6_jdpro/jd_ddly.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_ddly.js
+
+【✅保留】task 6dylan6_jdpro/jd_live.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_live.js
+
+【✅保留】task 6dylan6_jdpro/jd_moneyTree_help.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_moneyTree_help.js
+
+【✅保留】task 6dylan6_jdpro/jd_bean_home.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_bean_home.js
+
+【✅保留】task 6dylan6_jdpro/jd_super_redrain.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_redrain.js
+
+【✅保留】task 6dylan6_jdpro/jd_plantBean.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_plantBean.js
+
+【✅保留】task 6dylan6_jdpro/jd_dpsign.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_dpqd.js
+
+【✅保留】task 6dylan6_jdpro/jd_fruit.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_fruit.js
+
+【✅保留】task 6dylan6_jdpro/jd_club_lottery.js
+【🚫禁用】task zero205_JD_tencent_scf_main/jd_club_lottery.js
+
+【✅保留】task 6dylan6_jdpro/jd_jdzz.js
+【🚫禁用】task whyour_hundun/jdzz.js
+
+=== 最终筛选结束 ===
+
+=== 禁用数量统计 ===
+所有任务数量为：273
+过滤的任务数量为：114
+禁用的任务数量为：45
+🎉成功禁用重复任务~
+
+## 执行结束... 2022-05-14 04:15:01 耗时 1 秒

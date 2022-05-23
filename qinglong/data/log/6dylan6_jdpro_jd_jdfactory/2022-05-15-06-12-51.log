@@ -1,0 +1,64 @@
+## 开始执行... 2022-05-15 06:12:51
+
+
+🔔东东工厂, 开始!
+
+====================共2个京东账号Cookie=================
+
+============脚本执行时间：2022/5/15 06:12:52=============
+
+>>>>>>>>>>>>>>6Dylan6 提示：任务正常运行中>>>>>>>>>>>>>>>
+
+开始获取东东工厂配置文件
+
+您的互助码选择的是用&隔开
+
+共2个京东账号
+
+您提供了2个账号的东东工厂助力码
+
+"getaddrinfo EAI_AGAIN wq.jd.com"
+东东工厂 API请求失败，请检查网路重试
+
+******开始【京东账号1】jd_56ac883b2ee02*********
+
+开始
+第1个京东账号将要助力的好友["T0225KkcRxwd8lKCJRqglaUKIQCjVWnYaS5kRrbA"]
+"getaddrinfo EAI_AGAIN api.m.jd.com"
+东东工厂 API请求失败，请检查网路重试
+"getaddrinfo EAI_AGAIN cdn.jsdelivr.net"
+东东工厂 API请求失败，请检查网路重试
+"getaddrinfo EAI_AGAIN api.m.jd.com"
+东东工厂 API请求失败，请检查网路重试
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'code')
+    at helpFriends (/ql/data/scripts/6dylan6_jdpro/jd_jdfactory.js:243:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async jdFactory (/ql/data/scripts/6dylan6_jdpro/jd_jdfactory.js:83:5)
+    at async /ql/data/scripts/6dylan6_jdpro/jd_jdfactory.js:70:7
+"getaddrinfo EAI_AGAIN wq.jd.com"
+东东工厂 API请求失败，请检查网路重试
+
+******开始【京东账号2】jd_72476e50d1b0e*********
+
+开始
+第2个京东账号将要助力的好友["T0225KkcRRhIplzfI0j2waIKdgCjVWnYaS5kRrbA"]
+"getaddrinfo EAI_AGAIN api.m.jd.com"
+东东工厂 API请求失败，请检查网路重试
+"getaddrinfo EAI_AGAIN cdn.jsdelivr.net"
+东东工厂 API请求失败，请检查网路重试
+"getaddrinfo EAI_AGAIN api.m.jd.com"
+东东工厂 API请求失败，请检查网路重试
+
+❗️东东工厂, 错误!
+TypeError: Cannot read properties of undefined (reading 'code')
+    at helpFriends (/ql/data/scripts/6dylan6_jdpro/jd_jdfactory.js:243:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async jdFactory (/ql/data/scripts/6dylan6_jdpro/jd_jdfactory.js:83:5)
+    at async /ql/data/scripts/6dylan6_jdpro/jd_jdfactory.js:70:7
+
+🔔东东工厂, 结束! 🕛 52.56 秒
+
+
+## 执行结束... 2022-05-15 06:13:44 耗时 53 秒

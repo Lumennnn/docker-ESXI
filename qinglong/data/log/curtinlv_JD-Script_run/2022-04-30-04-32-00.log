@@ -1,0 +1,12 @@
+## 开始执行... 2022-04-30 04:32:00
+
+run.sh 脚本使用说明.
+    使用语法1: run.sh OpenCard getFollowGifts
+    使用语法2: run.sh -c 1 OpenCard getFollowGifts
+    使用语法3: run.sh -r <python 脚本绝对路径1> -r <python 脚本绝对路径2>
+    使用语法4: run.sh -r <脚本同一目录python脚本名字> -r <python 脚本绝对路径>
+    选项:
+          -c        (--cookie_num) <num>                 V4 专用参数，跑单独的 cookie
+          -r        (--run_script) <pythonScriptPath>    指定 python 脚本文件绝对路径或当前目录下python脚本名字
+
+## 执行结束... 2022-04-30 04:32:00 耗时 0 秒

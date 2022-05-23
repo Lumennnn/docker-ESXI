@@ -1,0 +1,9 @@
+## 开始执行... 2022-05-10 18:00:01
+
+ ❌失败! 原因:Error: Cannot find module './function/ql'
+Require stack:
+- /ql/data/scripts/hongke120_qlym/sendNotify.js
+- /ql/data/scripts/hongke120_qlym/dd_bucketWater.js! 
+done!
+
+## 执行结束... 2022-05-10 18:00:01 耗时 0 秒

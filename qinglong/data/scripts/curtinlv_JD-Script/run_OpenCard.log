@@ -1,0 +1,22 @@
+
+参数配置有误，请检查OpenCardConfig.ini
+Error: No section: 'main'
+尝试从Env环境获取！
+已获取并使用Env环境 Cookie
+已获取并使用Env环境 openCardBean: 5
+已获取并使用Env环境 sleepNum: 0.0
+已获取并使用Env环境 printlog: False
+已获取并使用Env环境 record: True
+已获取并使用Env环境 onlyRecord: False
+已获取并使用Env环境 memory: True
+已获取并使用Env环境 isRemoteSid: True
+
+════════════════════════════════════════
+║                                      ║
+║      JD   入   会   领   豆           ║
+║                                      ║
+════════════════════════════════════════
+@Version: v1.3.1
+本脚本已停用!!!
+ TG群https://t.me/topstyle996
+请检查您的环境/版本是否正常！

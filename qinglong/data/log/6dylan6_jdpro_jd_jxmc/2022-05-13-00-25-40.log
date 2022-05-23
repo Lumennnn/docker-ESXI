@@ -1,0 +1,61 @@
+## 开始执行... 2022-05-13 00:25:40
+
+
+🔔惊喜牧场, 开始!
+
+====================共2个京东账号Cookie=================
+
+============脚本执行时间：2022/5/13 00:25:40=============
+
+>>>>>>>>>>>>>>6Dylan6 提示：任务正常运行中>>>>>>>>>>>>>>>
+
+获取签名参数成功！
+
+*****开始【京东账号1】Wang_Happy_*****
+
+获取获得详情成功,总共有小鸡：1只,鸡蛋:1个,金币:1600,互助码：g_eiitD1h9-a-PX-GytKiGrfw77E3iG0LpMlIb2JHcZLJHCamL9gPUBPvfvbPNoTv1vQClGFvabGyaFbJYzqUA
+
+收奶牛金币
+获得金币：0
+现共有小鸡：1只,小鸡上限：6只
+不购买小鸡，若需要购买小鸡，则设置环境变量【BYTYPE】
+
+开始执行日常任务
+去做任务：浏览会场5s，等待5S
+完成任务：浏览会场5s
+
+❗️惊喜牧场, 错误!
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at doTask (/ql/data/scripts/6dylan6_jdpro/jd_jxmc.js:513:50)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async main (/ql/data/scripts/6dylan6_jdpro/jd_jxmc.js:232:9)
+    at async /ql/data/scripts/6dylan6_jdpro/jd_jxmc.js:65:13
+
+*****开始【京东账号2】蓝闺q*****
+
+获取获得详情成功,总共有小鸡：1只,鸡蛋:1个,金币:1600,互助码：g_eiitD1h9-a-PX-GytKiGrfw77E3iG0LpMlIb2JHcatyZDNz_UTrIDserE2CrPgDoq49T3Oe_5egcaEepSdRg
+
+收奶牛金币
+获得金币：0
+现共有小鸡：1只,小鸡上限：6只
+不购买小鸡，若需要购买小鸡，则设置环境变量【BYTYPE】
+
+开始执行日常任务
+去做任务：浏览会场5s，等待5S
+完成任务：浏览会场5s
+
+❗️惊喜牧场, 错误!
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at doTask (/ql/data/scripts/6dylan6_jdpro/jd_jxmc.js:513:50)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async main (/ql/data/scripts/6dylan6_jdpro/jd_jxmc.js:232:9)
+    at async /ql/data/scripts/6dylan6_jdpro/jd_jxmc.js:65:13
+
+脚本早上9点到10点直接执行，才会执行账号内互助
+
+🔔惊喜牧场, 结束! 🕛 24.893 秒
+
+
+## 执行结束... 2022-05-13 00:26:05 耗时 25 秒

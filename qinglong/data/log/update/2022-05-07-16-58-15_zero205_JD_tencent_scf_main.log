@@ -1,0 +1,177 @@
+## 开始执行... 2022-05-07 16:58:15
+
+开始克隆仓库 https://hub.fastgit.xyz/zero205/JD_tencent_scf.git 到 /ql/data/repo/zero205_JD_tencent_scf_main
+
+
+更新/ql/data/repo/zero205_JD_tencent_scf_main成功...
+
+检测到有新的定时任务：
+
+zero205_JD_tencent_scf_main/jd_club_lottery.js
+zero205_JD_tencent_scf_main/jd_fruit.js
+zero205_JD_tencent_scf_main/jd_bean_change.js
+zero205_JD_tencent_scf_main/jd_redrain_half.js
+zero205_JD_tencent_scf_main/jd_fcdyj.js
+zero205_JD_tencent_scf_main/jd_dpqd.js
+zero205_JD_tencent_scf_main/jd_plantBean.js
+zero205_JD_tencent_scf_main/jd_redrain.js
+zero205_JD_tencent_scf_main/jd_bean_home.js
+zero205_JD_tencent_scf_main/jd_moneyTree_help.js
+zero205_JD_tencent_scf_main/jd_bean_sign.js
+zero205_JD_tencent_scf_main/jd_tyt.js
+zero205_JD_tencent_scf_main/jd_zjb.js
+zero205_JD_tencent_scf_main/jd_angryKoi.js
+zero205_JD_tencent_scf_main/jd_live.js
+zero205_JD_tencent_scf_main/jd_health_plant.py
+zero205_JD_tencent_scf_main/jd_ddly.js
+zero205_JD_tencent_scf_main/jd_cfd_pearl_ex.js
+zero205_JD_tencent_scf_main/jd_joyjd_open.js
+zero205_JD_tencent_scf_main/jd_speed_redpocke.js
+zero205_JD_tencent_scf_main/jd_wsdlb.js
+zero205_JD_tencent_scf_main/jd_productZ4Brand.js
+zero205_JD_tencent_scf_main/jd_z_health_energy.js
+zero205_JD_tencent_scf_main/jd_gold_sign.js
+zero205_JD_tencent_scf_main/jd_cfd.js
+zero205_JD_tencent_scf_main/jd_kd.js
+zero205_JD_tencent_scf_main/jd_jfcz.js
+zero205_JD_tencent_scf_main/jd_unsubscribe.js
+zero205_JD_tencent_scf_main/jd_try.js
+zero205_JD_tencent_scf_main/jd_dwapp.js
+zero205_JD_tencent_scf_main/jd_signFree.js
+zero205_JD_tencent_scf_main/jd_beauty.js
+zero205_JD_tencent_scf_main/jd_try_notify.py
+zero205_JD_tencent_scf_main/jd_sign_graphics.js
+zero205_JD_tencent_scf_main/jd_zdjr.js
+zero205_JD_tencent_scf_main/jd_cash.js
+zero205_JD_tencent_scf_main/jd_fan.js
+zero205_JD_tencent_scf_main/jd_computer.js
+zero205_JD_tencent_scf_main/jd_jdtj_winner.js
+zero205_JD_tencent_scf_main/jd_jmf.js
+zero205_JD_tencent_scf_main/jx_sign.js
+zero205_JD_tencent_scf_main/jd_CheckCK.js
+zero205_JD_tencent_scf_main/jd_cfd_mooncake.js
+zero205_JD_tencent_scf_main/jd_pigPet.js
+zero205_JD_tencent_scf_main/jd_xfxd.js
+zero205_JD_tencent_scf_main/jd_car.js
+zero205_JD_tencent_scf_main/jd_sgmh.js
+zero205_JD_tencent_scf_main/jd_m_sign.js
+zero205_JD_tencent_scf_main/jd_dreamFactory.js
+zero205_JD_tencent_scf_main/jd_joy_feedPets.js
+zero205_JD_tencent_scf_main/jd_wxgame.js
+zero205_JD_tencent_scf_main/jd_joy_park_task.js
+zero205_JD_tencent_scf_main/jd_connoisseur.js
+zero205_JD_tencent_scf_main/jd_wish.js
+zero205_JD_tencent_scf_main/jd_get_share_code.js
+zero205_JD_tencent_scf_main/jd_health.js
+zero205_JD_tencent_scf_main/jd_jdzz.js
+zero205_JD_tencent_scf_main/jd_speed_sign.js
+zero205_JD_tencent_scf_main/jd_nnfls.js
+zero205_JD_tencent_scf_main/jd_ccSign.js
+zero205_JD_tencent_scf_main/jd_pet.js
+zero205_JD_tencent_scf_main/jd_joy_park.js
+zero205_JD_tencent_scf_main/jd_moneyTree.js
+zero205_JD_tencent_scf_main/jd_cleancart.js
+zero205_JD_tencent_scf_main/jd_jxgckc.js
+zero205_JD_tencent_scf_main/jd_gold_creator.js
+zero205_JD_tencent_scf_main/jd_qqxing.js
+zero205_JD_tencent_scf_main/jd_jxmc.js
+zero205_JD_tencent_scf_main/jd_sddd.js
+zero205_JD_tencent_scf_main/jd_xmf.js
+zero205_JD_tencent_scf_main/jd_sevenDay.js
+zero205_JD_tencent_scf_main/jdCookie.js
+zero205_JD_tencent_scf_main/jd_jxlhb.js
+zero205_JD_tencent_scf_main/jd_blueCoin.js
+zero205_JD_tencent_scf_main/jd_jin_tie.js
+zero205_JD_tencent_scf_main/jd_ms.js
+zero205_JD_tencent_scf_main/jd_babel_sign.js
+zero205_JD_tencent_scf_main/jd_nzmh.js
+zero205_JD_tencent_scf_main/jd_cfd_hb.js
+zero205_JD_tencent_scf_main/jd_cfd_loop.js
+zero205_JD_tencent_scf_main/jd_jdfactory.js
+
+开始尝试自动添加定时任务...
+
+摇京豆 -> 添加成功
+东东农场 -> 添加成功
+京东资产变动 -> 添加成功
+半点京豆雨 -> 添加成功
+发财大赢家助力 -> 添加成功
+店铺签到 -> 添加成功
+京东种豆得豆 -> 添加成功
+整点京豆雨 -> 添加成功
+领京豆额外奖励 -> 添加成功
+京东摇钱树助力 -> 添加成功
+jd_bean_sign.js -> 添加成功
+柠檬推一推 -> 添加成功
+柠檬赚金币 -> 添加成功
+愤怒的锦鲤 -> 添加成功
+京东直播 -> 添加成功
+京东健康社区-种植园自动任务 -> 添加成功
+东东乐园 -> 添加成功
+财富岛珍珠兑换 -> 添加成功
+jd_joyjd_open通用ID任务 -> 添加成功
+京东极速版红包 -> 添加成功
+柠檬我是大老板农场 -> 添加成功
+特务Z -> 添加成功
+健康社区收取能量 -> 添加成功
+京东金榜 -> 添加成功
+京喜财富岛 -> 添加成功
+京东快递签到 -> 添加成功
+见缝插针 -> 添加成功
+批量取关店铺和商品 -> 添加成功
+京东试用 -> 添加成功
+积分换话费 -> 添加成功
+极速免费签到 -> 添加成功
+美丽研究院 -> 添加成功
+京东试用成功通知 -> 添加成功
+京东签到图形验证 -> 添加成功
+unctio -> 添加成功
+签到领现金 -> 添加成功
+粉丝互动 -> 添加成功
+电脑配件 -> 添加成功
+京东特价--翻翻乐 -> 添加成功
+京东集魔方 -> 添加成功
+京喜签到 -> 添加成功
+京东CK检测 -> 添加成功
+京喜财富岛合成月饼 -> 添加成功
+金融养猪 -> 添加成功
+京东幸福小店 -> 添加成功
+汽车签到 -> 添加成功
+闪购盲盒 -> 添加成功
+京东通天塔--签到 -> 添加成功
+京喜工厂 -> 添加成功
+宠汪汪🐕喂食 -> 添加成功
+通用游戏任务 -> 添加成功
+汪汪乐园每日任务 -> 添加成功
+内容鉴赏官 -> 添加成功
+众筹许愿池 -> 添加成功
+获取互助码 -> 添加成功
+东东健康社区 -> 添加成功
+京东赚赚修复版 -> 添加成功
+京东极速版 -> 添加成功
+牛牛福利 -> 添加成功
+领券中心签到 -> 添加成功
+东东萌宠 -> 添加成功
+汪汪乐园养joy -> 添加成功
+京东摇钱树 -> 添加成功
+清空购物车 -> 添加成功
+京喜工厂商品列表详情 -> 添加成功
+金榜创造营 -> 添加成功
+QQ星系牧场 -> 添加成功
+京喜牧场 -> 添加成功
+送豆得豆 -> 添加成功
+京东小魔方 -> 添加成功
+7天店铺签到 -> 添加成功
+jdCookie.js -> 添加成功
+京喜领88元红包 -> 添加成功
+东东超市兑换奖品 -> 添加成功
+领金贴 -> 添加成功
+搞鸡玩家-秒秒币 -> 添加成功
+通天塔签到共建 -> 添加成功
+女装盲盒抽京豆 -> 添加成功
+财富岛兑换红包 -> 添加成功
+京喜财富岛热气球 -> 添加成功
+东东工厂 -> 添加成功
+通知失败(null)
+
+## 执行结束... 2022-05-07 16:58:36  耗时 21 秒

@@ -1,0 +1,48 @@
+## 开始执行... 2022-05-15 06:45:50
+
+
+🔔京喜财富岛, 开始!
+
+====================共2个京东账号Cookie=================
+
+============脚本执行时间：2022/5/15 06:45:50=============
+
+>>>>>>>>>>>>>>6Dylan6 提示：任务正常运行中>>>>>>>>>>>>>>>
+
+"getaddrinfo EAI_AGAIN cactus.jd.com"
+request_algo 签名参数API请求失败，请检查网路重试
+
+❗️京喜财富岛, 错误!
+
+
+******开始【京东账号1】jd_56ac883b2ee02*********
+
+"getaddrinfo EAI_AGAIN m.jingxi.com"
+京喜财富岛 QueryUserInfo API请求失败，请检查网路重试
+
+❗️京喜财富岛, 错误!
+TypeError: Cannot read properties of undefined (reading 'LeadInfo')
+    at cfd (/ql/data/scripts/6dylan6_jdpro/jd_cfd.js:130:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /ql/data/scripts/6dylan6_jdpro/jd_cfd.js:88:7
+
+❗️京喜财富岛, 错误!
+
+
+******开始【京东账号2】jd_72476e50d1b0e*********
+
+"getaddrinfo EAI_AGAIN m.jingxi.com"
+京喜财富岛 QueryUserInfo API请求失败，请检查网路重试
+
+❗️京喜财富岛, 错误!
+TypeError: Cannot read properties of undefined (reading 'LeadInfo')
+    at cfd (/ql/data/scripts/6dylan6_jdpro/jd_cfd.js:130:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /ql/data/scripts/6dylan6_jdpro/jd_cfd.js:88:7
+您将要助力的好友[]
+
+🔔京喜财富岛, 结束! 🕛 106.177 秒
+
+刷新CDN异常 getaddrinfo EAI_AGAIN purge.jsdelivr.net
+
+## 执行结束... 2022-05-15 06:48:06 耗时 136 秒

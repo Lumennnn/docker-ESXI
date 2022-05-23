@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NotificationOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Options>
+    <NotificationOption>
+      <Type>TaskFailed</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+    <NotificationOption>
+      <Type>ServerRestartRequired</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+    <NotificationOption>
+      <Type>ApplicationUpdateAvailable</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+    <NotificationOption>
+      <Type>ApplicationUpdateInstalled</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+    <NotificationOption>
+      <Type>PluginUpdateInstalled</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+    <NotificationOption>
+      <Type>PluginUninstalled</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+    <NotificationOption>
+      <Type>InstallationFailed</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+    <NotificationOption>
+      <Type>PluginInstalled</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+    <NotificationOption>
+      <Type>PluginError</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+    <NotificationOption>
+      <Type>UserLockedOut</Type>
+      <DisabledMonitorUsers />
+      <SendToUsers />
+      <Enabled>true</Enabled>
+      <DisabledServices />
+      <SendToUserMode>Admins</SendToUserMode>
+    </NotificationOption>
+  </Options>
+</NotificationOptions>

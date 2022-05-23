@@ -1,0 +1,8 @@
+## 开始执行... 2022-05-14 11:20:01
+
+Traceback (most recent call last):
+  File "/ql/data/scripts/whyour_hundun/yiyan.py", line 3, in <module>
+    import urllib2,json,pymongo,ssl
+ModuleNotFoundError: No module named 'urllib2'
+
+## 执行结束... 2022-05-14 11:20:01 耗时 0 秒

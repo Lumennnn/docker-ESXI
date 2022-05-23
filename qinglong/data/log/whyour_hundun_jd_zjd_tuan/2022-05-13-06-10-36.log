@@ -1,0 +1,28 @@
+## 开始执行... 2022-05-13 06:10:36
+
+
+🔔京东赚京豆开团, 开始!
+node:internal/modules/cjs/loader:942
+  throw err;
+  ^
+
+Error: Cannot find module './jdCookie.js'
+Require stack:
+- /ql/data/scripts/whyour_hundun/jd_zjd_tuan.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:939:15)
+    at Module._load (node:internal/modules/cjs/loader:780:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/ql/data/scripts/whyour_hundun/jd_zjd_tuan.js:25:35)
+    at Module._compile (node:internal/modules/cjs/loader:1105:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Module._load (node:internal/modules/cjs/loader:827:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/ql/data/scripts/whyour_hundun/jd_zjd_tuan.js' ]
+}
+
+Node.js v18.0.0
+
+## 执行结束... 2022-05-13 06:10:36 耗时 0 秒

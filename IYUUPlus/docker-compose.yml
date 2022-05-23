@@ -1,0 +1,21 @@
+version: "3.2"
+
+services:
+  iyuuplus:
+    image: iyuucn/iyuuplus
+    container_name: iyuuplus
+    networks:
+      macvlan_ikuai:
+        ipv4_address: 192.168.1.222
+    volumes:
+      - ./db:/IYUU/db #- /share/CACHEDEV3_DATA/Docker/qbittorrent/config/qBittorrent/BT_backup:/BT_backup
+      - /home/lumen/docker/transmission_baozhong/config/torrents/:/torrents
+      - /home/lumen/docker/transmission_baocun/config/torrents/:/torrents
+      # network_mode: "host"
+      #ports:
+      #- 8787:8787
+    restart: unless-stopped
+networks:
+  macvlan_ikuai:
+    external:
+      name: ikuai

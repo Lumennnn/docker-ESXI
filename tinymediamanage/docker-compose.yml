@@ -1,0 +1,15 @@
+version: '2'
+services:
+  tinymediamanager:
+    image: dzhuang/tinymediamanager:latest
+    container_name: tinymediamanager
+    network_mode: "host"
+    environment:
+    # 5800 5900
+      - GROUP_ID=1000
+      - USER_ID=0
+      - TZ=Asia/Hong_Kong
+    volumes:
+      - "./config:/config:rw"
+      - "/hdd:/media:rw"
+    restart: unless-stopped

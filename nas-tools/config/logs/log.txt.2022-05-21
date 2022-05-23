@@ -1,0 +1,97 @@
+2022-05-21 07:34:24,138	INFO: WEB管理页面用户：admin
+2022-05-21 07:34:24,138	INFO: 未启用https，请使用 http://IP:3000 访问管理页面
+2022-05-21 07:34:24,139	INFO: TMDB匹配模式：正常模式
+2022-05-21 07:34:24,139	INFO: 媒体管理软件设置为：emby
+2022-05-21 07:34:24,139	WARNING: emby配置不完整，部分功能将无法使用
+2022-05-21 07:34:24,268	INFO: 电影分类：华语电影 外语电影
+2022-05-21 07:34:24,269	INFO: 电视剧分类：动漫 纪录片 儿童 综艺 国产剧 欧美剧 日韩剧 未分类
+2022-05-21 07:34:24,269	INFO: 动漫分类：动漫
+2022-05-21 07:34:24,269	WARNING: 微信Token、EncodingAESKey未配置，微信控制功能将无法使用
+2022-05-21 07:34:24,302	INFO: 目录同步转移模式为：硬链接
+2022-05-21 07:34:24,303	INFO: PT下载软件设置为：transmission
+2022-05-21 07:34:24,304	INFO: PT下载文件转移模式为：硬链接
+2022-05-21 07:34:24,304	INFO: PT检索软件设置为：jackett
+2022-05-21 07:34:24,305	INFO: 微信等移动端渠道搜索已开启自动择优下载
+2022-05-21 07:34:24,305	INFO: PT保种时间未配置，自动删种功能已关闭
+2022-05-21 07:34:24,306	INFO: 下载软件监控未开启，PT下载监控功能已关闭
+2022-05-21 07:34:25,261	INFO: 【RUN】scheduler.pt_signin启动...
+2022-05-21 07:34:25,269	ERROR: 【TR】transmission连接出错：can't connect to transmission daemon: HTTPConnectionPool(host='192.168.1.4', port=9090): Max retries exceeded with url: /transmission/rpc (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ff8d9eb0190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2022-05-21 07:34:25,281	INFO: 【RUN】scheduler.rss_download启动...
+2022-05-21 07:34:25,289	INFO: 【RUN】scheduler.douban_sync启动...
+2022-05-21 07:34:25,292	INFO: 【SYNC】读取到监控目录：/media/pt_baocun/downloaded
+2022-05-21 07:34:28,496	INFO: 【RUN】/media/pt_baocun/downloaded 的monitor.media_sync启动...
+2022-05-21 12:22:25,728	INFO: 【RMT】开始处理：/media/pt_baocun/downloaded/Everything.Everywhere.All.At.Once.2022.1080p.WEB-DL.DDP5.1.H.264-KKYY@CHDBits.mkv
+2022-05-21 12:22:25,838	INFO: 【META】正在识别电影：Everything Everywhere All At Once, 年份=2022 ...
+2022-05-21 12:22:30,813	INFO: 【RMT】正在转移文件：Everything.Everywhere.All.At.Once.2022.1080p.WEB-DL.DDP5.1.H.264-KKYY@CHDBits.mkv 到 瞬息全宇宙 (2022) - 1080p.mkv
+2022-05-21 12:22:30,886	ERROR: 【RMT】文件 Everything.Everywhere.All.At.Once.2022.1080p.WEB-DL.DDP5.1.H.264-KKYY@CHDBits.mkv 硬链接失败，错误码：1
+2022-05-21 12:22:30,886	INFO: 【RMT】/media/pt_baocun/downloaded/Everything.Everywhere.All.At.Once.2022.1080p.WEB-DL.DDP5.1.H.264-KKYY@CHDBits.mkv 处理完成，总数：1，失败：1
+2022-05-21 12:22:30,887	WARNING: 【SYNC】/media/pt_baocun/downloaded/Everything.Everywhere.All.At.Once.2022.1080p.WEB-DL.DDP5.1.H.264-KKYY@CHDBits.mkv 转移失败：文件转移失败，错误码：1
+2022-05-21 13:34:25,303	INFO: 【DOUBAN】开始同步豆瓣数据...
+2022-05-21 13:34:25,314	INFO: 【DOUBAN】开始获取 166011562 的 do 数据...
+2022-05-21 13:34:25,315	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-21 13:34:26,012	INFO: 【DOUBAN】第 1 页有 0 个媒体
+2022-05-21 13:34:26,012	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-21 13:34:26,012	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-21 13:34:26,012	INFO: 【DOUBAN】用户 166011562 的 do 解析完成，共获取到 0 个媒体
+2022-05-21 13:34:26,012	INFO: 【DOUBAN】开始获取 166011562 的 wish 数据...
+2022-05-21 13:34:26,013	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-21 13:34:26,474	INFO: 【DOUBAN】第 1 页有 7 个媒体
+2022-05-21 13:34:26,474	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-21 13:34:26,475	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-21 13:34:26,475	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-21 13:34:26,475	INFO: 【DOUBAN】用户 166011562 的 wish 解析完成，共获取到 0 个媒体
+2022-05-21 13:34:26,475	INFO: 【DOUBAN】开始获取 166011562 的 collect 数据...
+2022-05-21 13:34:26,475	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-21 13:34:26,954	INFO: 【DOUBAN】第 1 页有 8 个媒体
+2022-05-21 13:34:26,954	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-21 13:34:26,954	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-21 13:34:26,955	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-21 13:34:26,955	INFO: 【DOUBAN】用户 166011562 的 collect 解析完成，共获取到 0 个媒体
+2022-05-21 13:34:26,955	INFO: 【DOUBAN】用户 166011562 解析完成，共获取到 0 个媒体
+2022-05-21 13:34:26,955	INFO: 【DOUBAN】所有用户解析完成，共获取到 0 个媒体
+2022-05-21 19:34:25,310	INFO: 【DOUBAN】开始同步豆瓣数据...
+2022-05-21 19:34:25,367	INFO: 【DOUBAN】开始获取 166011562 的 do 数据...
+2022-05-21 19:34:25,368	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-21 19:34:26,218	INFO: 【DOUBAN】第 1 页有 0 个媒体
+2022-05-21 19:34:26,218	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-21 19:34:26,219	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-21 19:34:26,219	INFO: 【DOUBAN】用户 166011562 的 do 解析完成，共获取到 0 个媒体
+2022-05-21 19:34:26,219	INFO: 【DOUBAN】开始获取 166011562 的 wish 数据...
+2022-05-21 19:34:26,219	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-21 19:34:26,693	INFO: 【DOUBAN】第 1 页有 7 个媒体
+2022-05-21 19:34:26,693	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-21 19:34:26,693	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-21 19:34:26,693	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-21 19:34:26,693	INFO: 【DOUBAN】用户 166011562 的 wish 解析完成，共获取到 0 个媒体
+2022-05-21 19:34:26,694	INFO: 【DOUBAN】开始获取 166011562 的 collect 数据...
+2022-05-21 19:34:26,694	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-21 19:34:28,905	INFO: 【DOUBAN】第 1 页有 8 个媒体
+2022-05-21 19:34:28,905	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-21 19:34:28,905	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-21 19:34:28,906	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-21 19:34:28,906	INFO: 【DOUBAN】用户 166011562 的 collect 解析完成，共获取到 0 个媒体
+2022-05-21 19:34:28,906	INFO: 【DOUBAN】用户 166011562 解析完成，共获取到 0 个媒体
+2022-05-21 19:34:28,906	INFO: 【DOUBAN】所有用户解析完成，共获取到 0 个媒体
+2022-05-22 01:34:25,313	INFO: 【DOUBAN】开始同步豆瓣数据...
+2022-05-22 01:34:25,347	INFO: 【DOUBAN】开始获取 166011562 的 do 数据...
+2022-05-22 01:34:25,358	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-22 01:34:26,134	INFO: 【DOUBAN】第 1 页有 0 个媒体
+2022-05-22 01:34:26,134	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-22 01:34:26,135	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-22 01:34:26,135	INFO: 【DOUBAN】用户 166011562 的 do 解析完成，共获取到 0 个媒体
+2022-05-22 01:34:26,135	INFO: 【DOUBAN】开始获取 166011562 的 wish 数据...
+2022-05-22 01:34:26,135	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-22 01:34:26,522	INFO: 【DOUBAN】第 1 页有 7 个媒体
+2022-05-22 01:34:26,523	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-22 01:34:26,523	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-22 01:34:26,523	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-22 01:34:26,523	INFO: 【DOUBAN】用户 166011562 的 wish 解析完成，共获取到 0 个媒体
+2022-05-22 01:34:26,523	INFO: 【DOUBAN】开始获取 166011562 的 collect 数据...
+2022-05-22 01:34:26,524	INFO: 【DOUBAN】开始解析第 1 页数据...
+2022-05-22 01:34:27,040	INFO: 【DOUBAN】第 1 页有 8 个媒体
+2022-05-22 01:34:27,041	INFO: 【DOUBAN】本页监控日期内的数据为：0
+2022-05-22 01:34:27,041	INFO: 【DOUBAN】是否继续访问下一页：False
+2022-05-22 01:34:27,041	INFO: 【DOUBAN】其他媒体不在监控时间内，结束导入
+2022-05-22 01:34:27,042	INFO: 【DOUBAN】用户 166011562 的 collect 解析完成，共获取到 0 个媒体
+2022-05-22 01:34:27,042	INFO: 【DOUBAN】用户 166011562 解析完成，共获取到 0 个媒体
+2022-05-22 01:34:27,042	INFO: 【DOUBAN】所有用户解析完成，共获取到 0 个媒体
